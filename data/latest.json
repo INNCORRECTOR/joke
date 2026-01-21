@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-21T05:45:54.235846+00:00",
+  "timestamp": "2026-01-21T06:00:27.131639+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Why don't skeletons fight each other?",
-    "punchline": "They don't have the guts.",
-    "id": 449
+    "type": "programming",
+    "setup": "There are 10 types of people in this world...",
+    "punchline": "Those who understand binary and those who don't",
+    "id": 28
   }
 }
