@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-21T06:03:51.419201+00:00",
+  "timestamp": "2026-01-21T06:04:07.313239+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "A DHCP packet walks into a bar and asks for a beer.",
-    "punchline": "Bartender says, \"here, but I\u2019ll need that back in an hour!\"",
-    "id": 368
+    "type": "general",
+    "setup": "What kind of music do planets listen to?",
+    "punchline": "Nep-tunes.",
+    "id": 255
   }
 }
