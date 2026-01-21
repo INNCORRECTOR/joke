@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-21T06:10:01.984788+00:00",
+  "timestamp": "2026-01-21T06:15:01.854493+00:00",
   "joke": {
     "type": "general",
-    "setup": "Who is the coolest Doctor in the hospital?",
-    "punchline": "The hip Doctor!",
-    "id": 297
+    "setup": "What kind of bagel can fly?",
+    "punchline": "A plain bagel.",
+    "id": 251
   }
 }
