@@ -1,2 +1,2 @@
-There are 10 types of people in this world...
-Those who understand binary and those who don't
+A DHCP packet walks into a bar and asks for a beer.
+Bartender says, "here, but I’ll need that back in an hour!"
