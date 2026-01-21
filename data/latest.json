@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-21T12:30:01.570157+00:00",
+  "timestamp": "2026-01-21T18:30:01.314620+00:00",
   "joke": {
     "type": "general",
-    "setup": "What is a tornado's favorite game to play?",
-    "punchline": "Twister!",
-    "id": 240
+    "setup": "How come the stadium got hot after the game?",
+    "punchline": "Because all of the fans left.",
+    "id": 115
   }
 }
