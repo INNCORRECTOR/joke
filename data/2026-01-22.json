@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-22T00:30:01.742937+00:00",
+  "timestamp": "2026-01-22T06:30:01.139948+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why are ghosts bad liars?",
-    "punchline": "Because you can see right through them!",
-    "id": 300
+    "setup": "What kind of tree fits in your hand?",
+    "punchline": "A palm tree!",
+    "id": 257
   }
 }
