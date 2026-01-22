@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-22T12:30:01.518262+00:00",
+  "timestamp": "2026-01-22T18:30:01.252119+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why is seven bigger than nine?",
-    "punchline": "Because seven ate nine.",
-    "id": 377
+    "setup": "When do doctors get angry?",
+    "punchline": "When they run out of patients.",
+    "id": 280
   }
 }
