@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-23T06:30:01.478772+00:00",
+  "timestamp": "2026-01-23T12:30:01.669412+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What do you call a group of disorganized cats?",
-    "punchline": "A cat-tastrophe.",
-    "id": 208
+    "type": "programming",
+    "setup": "What do you call a computer mouse that swears a lot?",
+    "punchline": "A cursor!",
+    "id": 435
   }
 }
