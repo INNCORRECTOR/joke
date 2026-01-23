@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-23T12:30:01.669412+00:00",
+  "timestamp": "2026-01-23T18:30:02.075343+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "What do you call a computer mouse that swears a lot?",
-    "punchline": "A cursor!",
-    "id": 435
+    "type": "general",
+    "setup": "Where was the Declaration of Independence signed?",
+    "punchline": "At the bottom! ",
+    "id": 293
   }
 }
