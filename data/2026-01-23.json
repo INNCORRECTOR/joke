@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-23T00:30:01.462541+00:00",
+  "timestamp": "2026-01-23T06:30:01.478772+00:00",
   "joke": {
     "type": "general",
-    "setup": "What did the Dorito farmer say to the other Dorito farmer?",
-    "punchline": "Cool Ranch!",
-    "id": 171
+    "setup": "What do you call a group of disorganized cats?",
+    "punchline": "A cat-tastrophe.",
+    "id": 208
   }
 }
