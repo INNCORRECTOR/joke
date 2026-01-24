@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-24T00:30:01.654994+00:00",
+  "timestamp": "2026-01-24T06:30:01.311450+00:00",
   "joke": {
     "type": "general",
-    "setup": "What did the Dorito farmer say to the other Dorito farmer?",
-    "punchline": "Cool Ranch!",
-    "id": 171
+    "setup": "What do you call a monkey in a mine field?",
+    "punchline": "A babooooom!",
+    "id": 210
   }
 }
