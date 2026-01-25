@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-25T06:30:01.240208+00:00",
+  "timestamp": "2026-01-25T12:30:01.408555+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What do you call a belt made out of watches?",
-    "punchline": "A waist of time.",
-    "id": 4
+    "type": "programming",
+    "setup": "Why did the developer go broke buying Bitcoin?",
+    "punchline": "He kept calling it bytecoin and didn't get any.",
+    "id": 413
   }
 }
