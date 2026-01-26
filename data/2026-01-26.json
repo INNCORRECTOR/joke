@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-26T12:30:01.378213+00:00",
+  "timestamp": "2026-01-26T18:30:01.884720+00:00",
   "joke": {
     "type": "general",
-    "setup": "What cheese can never be yours?",
-    "punchline": "Nacho cheese.",
-    "id": 156
+    "setup": "Why do pirates not know the alphabet?",
+    "punchline": "They always get stuck at \"C\".",
+    "id": 349
   }
 }
