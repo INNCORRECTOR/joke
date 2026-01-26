@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-26T06:30:01.899988+00:00",
+  "timestamp": "2026-01-26T12:30:01.378213+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Why do C# and Java developers keep breaking their keyboards?",
-    "punchline": "Because they use a strongly typed language.",
-    "id": 73
+    "type": "general",
+    "setup": "What cheese can never be yours?",
+    "punchline": "Nacho cheese.",
+    "id": 156
   }
 }
