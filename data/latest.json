@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-28T12:30:01.136673+00:00",
+  "timestamp": "2026-01-28T18:30:01.832947+00:00",
   "joke": {
     "type": "general",
-    "setup": "What kind of tree fits in your hand?",
-    "punchline": "A palm tree!",
-    "id": 257
+    "setup": "Why did Dracula lie in the wrong coffin?",
+    "punchline": "He made a grave mistake.",
+    "id": 312
   }
 }
