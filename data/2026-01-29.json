@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-29T06:30:01.882052+00:00",
+  "timestamp": "2026-01-29T12:30:01.406240+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Hey, dad, did you get a haircut?",
-    "punchline": "No, I got them all cut.",
-    "id": 76
+    "type": "programming",
+    "setup": "What\u2019s the object-oriented way to become wealthy?",
+    "punchline": "Inheritance.",
+    "id": 371
   }
 }

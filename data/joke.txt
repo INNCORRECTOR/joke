@@ -1,2 +1,2 @@
-Hey, dad, did you get a haircut?
-No, I got them all cut.
+What’s the object-oriented way to become wealthy?
+Inheritance.
