@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-30T12:30:01.192965+00:00",
+  "timestamp": "2026-01-30T18:30:01.633429+00:00",
   "joke": {
     "type": "general",
-    "setup": "What do you call a troublesome Canadian high schooler?",
-    "punchline": "A poutine.",
-    "id": 216
+    "setup": "What do you give a sick lemon?",
+    "punchline": "Lemonaid.",
+    "id": 233
   }
 }
