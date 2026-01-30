@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-30T00:30:01.801077+00:00",
+  "timestamp": "2026-01-30T06:30:01.885592+00:00",
   "joke": {
     "type": "general",
-    "setup": "What did the janitor say when he jumped out of the closet?",
-    "punchline": "Supplies!",
-    "id": 424
+    "setup": "Why did the house go to the doctor?",
+    "punchline": "It was having window panes.",
+    "id": 326
   }
 }
