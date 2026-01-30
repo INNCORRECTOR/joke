@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-30T06:30:01.885592+00:00",
+  "timestamp": "2026-01-30T12:30:01.192965+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why did the house go to the doctor?",
-    "punchline": "It was having window panes.",
-    "id": 326
+    "setup": "What do you call a troublesome Canadian high schooler?",
+    "punchline": "A poutine.",
+    "id": 216
   }
 }
