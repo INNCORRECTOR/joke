@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-01-31T00:30:01.376462+00:00",
+  "timestamp": "2026-01-31T06:30:01.476253+00:00",
   "joke": {
     "type": "general",
-    "setup": "What do you get when you cross a snowman with a vampire?",
-    "punchline": "Frostbite.",
-    "id": 232
+    "setup": "What kind of dinosaur loves to sleep?",
+    "punchline": "A stega-snore-us.",
+    "id": 252
   }
 }
