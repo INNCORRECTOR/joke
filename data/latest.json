@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-02T12:30:01.319407+00:00",
+  "timestamp": "2026-02-02T18:30:01.714645+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why are skeletons so calm?",
-    "punchline": "Because nothing gets under their skin.",
-    "id": 305
+    "setup": "Did you hear about the bread factory burning down?",
+    "punchline": "They say the business is toast.",
+    "id": 84
   }
 }
