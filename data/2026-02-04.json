@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-04T12:30:01.960465+00:00",
+  "timestamp": "2026-02-04T18:30:01.463528+00:00",
   "joke": {
     "type": "general",
-    "setup": "What did one plate say to the other plate?",
-    "punchline": "Dinner is on me!",
-    "id": 161
+    "setup": "What do you call a pig with three eyes?",
+    "punchline": "Piiig",
+    "id": 213
   }
 }
