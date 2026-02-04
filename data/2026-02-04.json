@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-04T06:30:01.250124+00:00",
+  "timestamp": "2026-02-04T12:30:01.960465+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "3 SQL statements walk into a NoSQL bar. Soon, they walk out",
-    "punchline": "They couldn't find a table.",
-    "id": 369
+    "type": "general",
+    "setup": "What did one plate say to the other plate?",
+    "punchline": "Dinner is on me!",
+    "id": 161
   }
 }
