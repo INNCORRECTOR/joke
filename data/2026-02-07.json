@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-07T12:30:01.333368+00:00",
+  "timestamp": "2026-02-07T18:30:01.777603+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Why can't you use \"Beef stew\"as a password?",
-    "punchline": "Because it's not stroganoff.",
-    "id": 307
+    "type": "programming",
+    "setup": "How many React developers does it take to change a lightbulb?",
+    "punchline": "None, they prefer dark mode.",
+    "id": 410
   }
 }
