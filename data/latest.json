@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-07T00:30:01.657294+00:00",
+  "timestamp": "2026-02-07T06:30:01.739917+00:00",
   "joke": {
     "type": "general",
-    "setup": "What do you call a suspicious looking laptop?",
-    "punchline": "Asus",
-    "id": 379
+    "setup": "Why did the half blind man fall in the well?",
+    "punchline": "Because he couldn't see that well!",
+    "id": 325
   }
 }
