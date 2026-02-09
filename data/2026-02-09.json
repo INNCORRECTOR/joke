@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-09T06:30:01.396923+00:00",
+  "timestamp": "2026-02-09T12:30:01.807516+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Why did the cookie go to the doctor?",
-    "punchline": " Because it was feeling crumbly.",
-    "id": 434
+    "type": "programming",
+    "setup": "What did the Java code say to the C code?",
+    "punchline": "You've got no class.",
+    "id": 380
   }
 }
