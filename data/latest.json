@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-11T12:30:01.932212+00:00",
+  "timestamp": "2026-02-11T18:30:01.840390+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Why couldn't the kid see the pirate movie?",
-    "punchline": "Because it was rated arrr!",
-    "id": 310
+    "type": "programming",
+    "setup": "Where do programmers like to hangout?",
+    "punchline": "The Foo Bar.",
+    "id": 17
   }
 }
