@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-11T06:30:01.087846+00:00",
+  "timestamp": "2026-02-11T12:30:01.932212+00:00",
   "joke": {
     "type": "general",
-    "setup": "What is the tallest building in the world?",
-    "punchline": "The library, it\u2019s got the most stories!",
-    "id": 248
+    "setup": "Why couldn't the kid see the pirate movie?",
+    "punchline": "Because it was rated arrr!",
+    "id": 310
   }
 }
