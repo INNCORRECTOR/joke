@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-12T06:30:01.653755+00:00",
+  "timestamp": "2026-02-12T12:30:01.173818+00:00",
   "joke": {
-    "type": "knock-knock",
-    "setup": "Knock knock. \n Who's there? \n Opportunity.",
-    "punchline": "That is impossible. Opportunity doesn\u2019t come knocking twice!",
-    "id": 33
+    "type": "general",
+    "setup": "What lies at the bottom of the ocean and twitches?",
+    "punchline": "A nervous wreck.",
+    "id": 258
   }
 }
