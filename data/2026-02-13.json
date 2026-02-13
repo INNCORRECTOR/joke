@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-13T00:30:01.752268+00:00",
+  "timestamp": "2026-02-13T06:30:01.800823+00:00",
   "joke": {
     "type": "general",
-    "setup": "What's the best time to go to the dentist?",
-    "punchline": "Tooth hurty.",
-    "id": 10
+    "setup": "Why couldn't the kid see the pirate movie?",
+    "punchline": "Because it was rated arrr!",
+    "id": 310
   }
 }
