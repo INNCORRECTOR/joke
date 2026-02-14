@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-14T12:30:01.774566+00:00",
+  "timestamp": "2026-02-14T18:30:01.846124+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Why did the girl smear peanut butter on the road?",
-    "punchline": "To go with the traffic jam.",
-    "id": 324
+    "type": "knock-knock",
+    "setup": "Knock knock. \n Who's there? \n Cows go. \n Cows go who?",
+    "punchline": "No, cows go moo.",
+    "id": 12
   }
 }
