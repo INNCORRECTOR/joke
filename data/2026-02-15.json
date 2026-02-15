@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-15T12:30:02.032151+00:00",
+  "timestamp": "2026-02-15T18:30:01.350961+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What did the beaver say to the tree?",
-    "punchline": "It's been nice gnawing you.",
-    "id": 166
+    "type": "programming",
+    "setup": "A DHCP packet walks into a bar and asks for a beer.",
+    "punchline": "Bartender says, \"here, but I\u2019ll need that back in an hour!\"",
+    "id": 368
   }
 }
