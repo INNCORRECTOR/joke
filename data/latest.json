@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-16T12:30:01.793047+00:00",
+  "timestamp": "2026-02-16T18:30:01.250868+00:00",
   "joke": {
     "type": "general",
-    "setup": "Do you know where you can get chicken broth in bulk?",
-    "punchline": "The stock market.",
-    "id": 106
+    "setup": "Did you hear about the Viking who was reincarnated?",
+    "punchline": "He was Bjorn again",
+    "id": 392
   }
 }
