@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-17T00:30:01.553192+00:00",
+  "timestamp": "2026-02-17T06:30:01.437633+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "There are 10 types of people in this world...",
-    "punchline": "Those who understand binary and those who don't",
-    "id": 28
+    "type": "general",
+    "setup": "Did you hear about the cow who jumped over the barbed wire fence?",
+    "punchline": "It was udder destruction.",
+    "id": 87
   }
 }
