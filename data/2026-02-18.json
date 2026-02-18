@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-18T06:30:01.592352+00:00",
+  "timestamp": "2026-02-18T12:30:01.180711+00:00",
   "joke": {
     "type": "general",
-    "setup": "What did the Buffalo say to his little boy when he dropped him off at school?",
-    "punchline": "Bison.",
-    "id": 168
+    "setup": "Why do pumpkins sit on people\u2019s porches?",
+    "punchline": "They have no hands to knock on the door.",
+    "id": 350
   }
 }
