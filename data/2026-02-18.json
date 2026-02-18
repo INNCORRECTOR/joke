@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-18T12:30:01.180711+00:00",
+  "timestamp": "2026-02-18T18:30:01.627963+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why do pumpkins sit on people\u2019s porches?",
-    "punchline": "They have no hands to knock on the door.",
-    "id": 350
+    "setup": "Why can't a bicycle stand on its own?",
+    "punchline": "It's two-tired.",
+    "id": 306
   }
 }
