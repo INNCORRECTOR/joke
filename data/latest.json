@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-19T12:30:01.244651+00:00",
+  "timestamp": "2026-02-19T18:30:01.595650+00:00",
   "joke": {
     "type": "general",
-    "setup": "What animal is always at a game of cricket?",
-    "punchline": "A bat.",
-    "id": 153
+    "setup": "Where does batman go to the bathroom?",
+    "punchline": "The batroom.",
+    "id": 290
   }
 }
