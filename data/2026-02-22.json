@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-22T00:30:01.541808+00:00",
+  "timestamp": "2026-02-22T06:30:01.387326+00:00",
   "joke": {
     "type": "general",
-    "setup": "I dropped a pear in my car this morning.",
-    "punchline": "You should drop another one, then you would have a pair.",
-    "id": 57
+    "setup": "Why do pumpkins sit on people\u2019s porches?",
+    "punchline": "They have no hands to knock on the door.",
+    "id": 350
   }
 }
