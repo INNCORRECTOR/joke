@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-22T12:30:01.670756+00:00",
+  "timestamp": "2026-02-22T18:30:02.017396+00:00",
   "joke": {
-    "type": "general",
-    "setup": "How many hipsters does it take to change a lightbulb?",
-    "punchline": "Oh, it's a really obscure number. You've probably never heard of it.",
-    "id": 139
+    "type": "programming",
+    "setup": "Where did the API go to eat?",
+    "punchline": "To the RESTaurant.",
+    "id": 390
   }
 }
