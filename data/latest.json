@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-22T06:30:01.387326+00:00",
+  "timestamp": "2026-02-22T12:30:01.670756+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why do pumpkins sit on people\u2019s porches?",
-    "punchline": "They have no hands to knock on the door.",
-    "id": 350
+    "setup": "How many hipsters does it take to change a lightbulb?",
+    "punchline": "Oh, it's a really obscure number. You've probably never heard of it.",
+    "id": 139
   }
 }
