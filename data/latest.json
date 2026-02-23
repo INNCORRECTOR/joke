@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-23T12:30:01.410688+00:00",
+  "timestamp": "2026-02-23T18:30:01.872874+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why does a chicken coop only have two doors?",
-    "punchline": "Because if it had four doors it would be a chicken sedan.",
-    "id": 356
+    "setup": "What did the grape do when he got stepped on?",
+    "punchline": "He let out a little wine.",
+    "id": 173
   }
 }
