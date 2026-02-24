@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-24T06:30:01.406369+00:00",
+  "timestamp": "2026-02-24T12:30:01.827111+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why can't your nose be 12 inches long?",
-    "punchline": "Because then it'd be a foot!",
-    "id": 308
+    "setup": "What do you call a cow on a trampoline?",
+    "punchline": "A milk shake!",
+    "id": 195
   }
 }
