@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-24T12:30:01.827111+00:00",
+  "timestamp": "2026-02-24T18:30:01.203851+00:00",
   "joke": {
     "type": "general",
-    "setup": "What do you call a cow on a trampoline?",
-    "punchline": "A milk shake!",
-    "id": 195
+    "setup": "Why didn't the skeleton go for prom?",
+    "punchline": "Because it had nobody.",
+    "id": 396
   }
 }
