@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-26T00:30:01.439123+00:00",
+  "timestamp": "2026-02-26T06:30:01.697084+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What's Forrest Gump's password?",
-    "punchline": "1Forrest1",
-    "id": 3
+    "type": "programming",
+    "setup": "The punchline often arrives before the set-up.",
+    "punchline": "Do you know the problem with UDP jokes?",
+    "id": 72
   }
 }
