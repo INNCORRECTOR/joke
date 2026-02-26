@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-26T06:30:01.697084+00:00",
+  "timestamp": "2026-02-26T12:30:02.010501+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "The punchline often arrives before the set-up.",
-    "punchline": "Do you know the problem with UDP jokes?",
-    "id": 72
+    "type": "general",
+    "setup": "Did you hear about the guy who invented Lifesavers?",
+    "punchline": "They say he made a mint.",
+    "id": 88
   }
 }
