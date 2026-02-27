@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-27T06:30:01.456173+00:00",
+  "timestamp": "2026-02-27T12:30:01.673069+00:00",
   "joke": {
-    "type": "knock-knock",
-    "setup": "Knock knock. \n Who's there? \n Opportunity.",
-    "punchline": "That is impossible. Opportunity doesn\u2019t come knocking twice!",
-    "id": 33
+    "type": "general",
+    "setup": "Why did the barber win the race?",
+    "punchline": "He took a short cut.",
+    "id": 315
   }
 }
