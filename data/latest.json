@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-27T00:30:01.694589+00:00",
+  "timestamp": "2026-02-27T06:30:01.456173+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What biscuit does a short person like?",
-    "punchline": "Shortbread. ",
-    "id": 155
+    "type": "knock-knock",
+    "setup": "Knock knock. \n Who's there? \n Opportunity.",
+    "punchline": "That is impossible. Opportunity doesn\u2019t come knocking twice!",
+    "id": 33
   }
 }
