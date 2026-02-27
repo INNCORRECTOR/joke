@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-27T12:30:01.673069+00:00",
+  "timestamp": "2026-02-27T18:30:01.869519+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why did the barber win the race?",
-    "punchline": "He took a short cut.",
-    "id": 315
+    "setup": "Where do sheep go to get their hair cut?",
+    "punchline": "The baa-baa shop.",
+    "id": 287
   }
 }
