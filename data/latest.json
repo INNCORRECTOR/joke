@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-28T12:30:01.787099+00:00",
+  "timestamp": "2026-02-28T18:30:01.965481+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What's the difference between a seal and a sea lion?",
-    "punchline": "An ion! ",
-    "id": 272
+    "type": "programming",
+    "setup": "I just got fired from my job at the keyboard factory.",
+    "punchline": "They told me I wasn't putting in enough shifts.",
+    "id": 399
   }
 }
