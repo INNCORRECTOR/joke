@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-28T00:30:01.966389+00:00",
+  "timestamp": "2026-02-28T06:30:01.370084+00:00",
   "joke": {
     "type": "general",
-    "setup": "What do you call a pig that knows karate?",
-    "punchline": "A pork chop!",
-    "id": 212
+    "setup": "What do you call a pig with three eyes?",
+    "punchline": "Piiig",
+    "id": 213
   }
 }
