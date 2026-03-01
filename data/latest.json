@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-01T06:30:01.666468+00:00",
+  "timestamp": "2026-03-01T12:30:01.908128+00:00",
   "joke": {
     "type": "general",
-    "setup": "How many kids with ADD does it take to change a lightbulb?",
-    "punchline": "Let's go ride bikes!",
-    "id": 140
+    "setup": "What do you call a cow on a trampoline?",
+    "punchline": "A milk shake!",
+    "id": 195
   }
 }
