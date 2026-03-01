@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-01T12:30:01.908128+00:00",
+  "timestamp": "2026-03-01T18:30:01.245145+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What do you call a cow on a trampoline?",
-    "punchline": "A milk shake!",
-    "id": 195
+    "type": "programming",
+    "setup": "Knock-knock.",
+    "punchline": "A race condition. Who is there?",
+    "id": 362
   }
 }
