@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-03T12:30:01.307479+00:00",
+  "timestamp": "2026-03-03T18:30:01.591122+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Why did the kid throw the watch out the window?",
-    "punchline": "So time would fly.",
-    "id": 389
+    "type": "programming",
+    "setup": "Why did the programmer bring a ladder to work?",
+    "punchline": "They heard the code needed to be debugged from a higher level.",
+    "id": 441
   }
 }
