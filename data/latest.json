@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-03T06:30:01.139293+00:00",
+  "timestamp": "2026-03-03T12:30:01.307479+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Which song would an exception sing?",
-    "punchline": "Can't catch me - Avicii",
-    "id": 32
+    "type": "general",
+    "setup": "Why did the kid throw the watch out the window?",
+    "punchline": "So time would fly.",
+    "id": 389
   }
 }
