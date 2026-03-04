@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-04T00:30:01.754403+00:00",
+  "timestamp": "2026-03-04T06:30:01.504325+00:00",
   "joke": {
     "type": "general",
-    "setup": "Well...",
-    "punchline": "That\u2019s a deep subject.",
-    "id": 64
+    "setup": "what do you call a dog that can do magic tricks?",
+    "punchline": "a labracadabrador",
+    "id": 200
   }
 }
