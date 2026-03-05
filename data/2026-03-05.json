@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-05T12:30:01.961734+00:00",
+  "timestamp": "2026-03-05T18:30:01.366807+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What do you call a pig with three eyes?",
-    "punchline": "Piiig",
-    "id": 213
+    "type": "programming",
+    "setup": "What's the best part about TCP jokes?",
+    "punchline": "I get to keep telling them until you get them.",
+    "id": 363
   }
 }
