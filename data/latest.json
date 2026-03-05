@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-05T06:30:01.515884+00:00",
+  "timestamp": "2026-03-05T12:30:01.961734+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why do you never see elephants hiding in trees?",
-    "punchline": "Because they're so good at it.",
-    "id": 355
+    "setup": "What do you call a pig with three eyes?",
+    "punchline": "Piiig",
+    "id": 213
   }
 }
