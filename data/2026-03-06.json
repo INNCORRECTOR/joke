@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-06T12:30:01.620524+00:00",
+  "timestamp": "2026-03-06T18:30:01.913153+00:00",
   "joke": {
     "type": "general",
-    "setup": "How was the snow globe feeling after the storm?",
-    "punchline": "A little shaken.",
-    "id": 145
+    "setup": "What kind of award did the dentist receive?",
+    "punchline": "A little plaque.",
+    "id": 250
   }
 }
