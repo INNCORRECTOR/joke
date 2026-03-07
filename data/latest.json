@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-07T12:30:01.399641+00:00",
+  "timestamp": "2026-03-07T18:30:01.771885+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "What's the object-oriented way to become wealthy?",
-    "punchline": "Inheritance",
-    "id": 16
+    "type": "general",
+    "setup": "Did you hear about the bread factory burning down?",
+    "punchline": "They say the business is toast.",
+    "id": 84
   }
 }
