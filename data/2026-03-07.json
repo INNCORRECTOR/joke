@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-07T06:30:02.048148+00:00",
+  "timestamp": "2026-03-07T12:30:01.399641+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What kind of dog lives in a particle accelerator?",
-    "punchline": "A Fermilabrador Retriever.",
-    "id": 253
+    "type": "programming",
+    "setup": "What's the object-oriented way to become wealthy?",
+    "punchline": "Inheritance",
+    "id": 16
   }
 }
