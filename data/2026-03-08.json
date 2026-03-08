@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-08T06:30:01.832690+00:00",
+  "timestamp": "2026-03-08T12:30:01.289711+00:00",
   "joke": {
     "type": "general",
-    "setup": "How did the hipster burn the roof of his mouth?",
-    "punchline": "He ate the pizza before it was cool.",
-    "id": 117
+    "setup": "Why did the scarecrow win an award?",
+    "punchline": "Because he was outstanding in his field.",
+    "id": 333
   }
 }
