@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-08T12:30:01.289711+00:00",
+  "timestamp": "2026-03-08T18:30:01.526173+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Why did the scarecrow win an award?",
-    "punchline": "Because he was outstanding in his field.",
-    "id": 333
+    "type": "programming",
+    "setup": "Where did the API go to eat?",
+    "punchline": "To the RESTaurant.",
+    "id": 390
   }
 }
