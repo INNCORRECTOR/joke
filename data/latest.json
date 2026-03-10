@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-10T12:30:01.359321+00:00",
+  "timestamp": "2026-03-10T18:30:01.566832+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Which song would an exception sing?",
-    "punchline": "Can't catch me - Avicii",
-    "id": 32
+    "type": "general",
+    "setup": "Why are fish easy to weigh?",
+    "punchline": "Because they have their own scales.",
+    "id": 298
   }
 }
