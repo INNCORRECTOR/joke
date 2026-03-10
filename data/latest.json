@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-10T06:30:01.948787+00:00",
+  "timestamp": "2026-03-10T12:30:01.359321+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Why didn't the number 4 get into the nightclub?",
-    "punchline": "Because he is 2 square.",
-    "id": 337
+    "type": "programming",
+    "setup": "Which song would an exception sing?",
+    "punchline": "Can't catch me - Avicii",
+    "id": 32
   }
 }
