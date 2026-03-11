@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-11T00:30:01.483150+00:00",
+  "timestamp": "2026-03-11T06:30:01.665903+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What time is it?",
-    "punchline": "I don't know... it keeps changing.",
-    "id": 77
+    "type": "programming",
+    "setup": "Knock-knock.",
+    "punchline": "A race condition. Who is there?",
+    "id": 362
   }
 }

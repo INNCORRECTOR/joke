@@ -1,2 +1,2 @@
-What time is it?
-I don't know... it keeps changing.
+Knock-knock.
+A race condition. Who is there?
