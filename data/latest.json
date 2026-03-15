@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-15T06:30:01.812988+00:00",
+  "timestamp": "2026-03-15T12:30:01.127887+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What musical instrument is found in the bathroom?",
-    "punchline": "A tuba toothpaste.",
-    "id": 259
+    "type": "programming",
+    "setup": "Why did the developer go to therapy?",
+    "punchline": "They had too many unresolved issues.",
+    "id": 444
   }
 }
