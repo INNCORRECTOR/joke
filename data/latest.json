@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-16T12:30:01.904643+00:00",
+  "timestamp": "2026-03-16T18:30:01.675120+00:00",
   "joke": {
     "type": "general",
-    "setup": "If you boil a clown...",
-    "punchline": "Do you get a laughing stock?",
-    "id": 44
+    "setup": "What's the difference between a guitar and a fish?",
+    "punchline": "You can tune a guitar but you can't \"tuna\"fish!",
+    "id": 270
   }
 }
