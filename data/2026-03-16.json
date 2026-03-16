@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-16T00:30:01.486573+00:00",
+  "timestamp": "2026-03-16T06:30:01.488413+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why don't skeletons fight each other?",
-    "punchline": "They don't have the guts.",
-    "id": 449
+    "setup": "What do you call an alligator in a vest?",
+    "punchline": "An in-vest-igator!",
+    "id": 217
   }
 }
