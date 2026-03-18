@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-18T06:30:01.787383+00:00",
+  "timestamp": "2026-03-18T12:30:01.606696+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Where do sheep go to get their hair cut?",
-    "punchline": "The baa-baa shop.",
-    "id": 287
+    "type": "dad",
+    "setup": "Why don't eggs tell jokes?",
+    "punchline": "Because they would crack each other up.",
+    "id": 384
   }
 }
