@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-18T12:30:01.606696+00:00",
+  "timestamp": "2026-03-18T18:30:01.550453+00:00",
   "joke": {
-    "type": "dad",
-    "setup": "Why don't eggs tell jokes?",
-    "punchline": "Because they would crack each other up.",
-    "id": 384
+    "type": "general",
+    "setup": "Why do choirs keep buckets handy?",
+    "punchline": "So they can carry their tune",
+    "id": 345
   }
 }
