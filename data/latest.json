@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-20T06:30:01.939102+00:00",
+  "timestamp": "2026-03-20T12:30:01.243719+00:00",
   "joke": {
     "type": "general",
-    "setup": "What's the best time to go to the dentist?",
-    "punchline": "Tooth hurty.",
-    "id": 10
+    "setup": "What do I look like?",
+    "punchline": "A JOKE MACHINE!?",
+    "id": 188
   }
 }
