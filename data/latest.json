@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-20T12:30:01.243719+00:00",
+  "timestamp": "2026-03-20T18:30:01.686308+00:00",
   "joke": {
     "type": "general",
-    "setup": "What do I look like?",
-    "punchline": "A JOKE MACHINE!?",
-    "id": 188
+    "setup": "How do you fix a broken pizza?",
+    "punchline": "With tomato paste.",
+    "id": 122
   }
 }
