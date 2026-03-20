@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-20T00:30:01.074193+00:00",
+  "timestamp": "2026-03-20T06:30:01.939102+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Why would a guitarist become a good programmer?",
-    "punchline": "He's adept at riffing in C#.",
-    "id": 14
+    "type": "general",
+    "setup": "What's the best time to go to the dentist?",
+    "punchline": "Tooth hurty.",
+    "id": 10
   }
 }
