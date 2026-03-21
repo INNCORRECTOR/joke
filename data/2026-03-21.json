@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-21T06:30:01.947615+00:00",
+  "timestamp": "2026-03-21T12:30:01.107022+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why did the scarecrow win an award?",
-    "punchline": "Because he was outstanding in his field.",
-    "id": 430
+    "setup": "Hey, dad, did you get a haircut?",
+    "punchline": "No, I got them all cut.",
+    "id": 76
   }
 }
