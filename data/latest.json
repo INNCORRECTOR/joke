@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-21T00:30:02.005363+00:00",
+  "timestamp": "2026-03-21T06:30:01.947615+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why did the math book look sad?",
-    "punchline": "Because it had too many problems.",
-    "id": 422
+    "setup": "Why did the scarecrow win an award?",
+    "punchline": "Because he was outstanding in his field.",
+    "id": 430
   }
 }
