@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-24T12:30:01.091067+00:00",
+  "timestamp": "2026-03-24T18:30:01.842730+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Did you hear about the runner who was criticized?",
-    "punchline": "He just took it in stride",
-    "id": 93
+    "type": "programming",
+    "setup": "Why did the programmer always carry a pencil?",
+    "punchline": "They preferred to write in C#.",
+    "id": 448
   }
 }
