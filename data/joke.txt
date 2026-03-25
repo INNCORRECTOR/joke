@@ -1,2 +1,2 @@
-Why did the programmer always carry a pencil?
-They preferred to write in C#.
+What's the best thing about a Boolean?
+Even if you're wrong, you're only off by a bit.
