@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-25T00:30:01.612045+00:00",
+  "timestamp": "2026-03-25T06:30:01.475660+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "What's the best thing about a Boolean?",
-    "punchline": "Even if you're wrong, you're only off by a bit.",
-    "id": 15
+    "type": "general",
+    "setup": "Why couldn't the lifeguard save the hippie?",
+    "punchline": "He was too far out, man.",
+    "id": 311
   }
 }
