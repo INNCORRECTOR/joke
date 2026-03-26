@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-26T00:30:01.656102+00:00",
+  "timestamp": "2026-03-26T06:30:01.741092+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Did you hear about the chameleon who couldn't change color?",
-    "punchline": "They had a reptile dysfunction.",
-    "id": 85
+    "type": "programming",
+    "setup": "Why did the developer quit his job?",
+    "punchline": "Because he didn't get arrays.",
+    "id": 408
   }
 }
