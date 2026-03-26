@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-26T12:30:01.161718+00:00",
+  "timestamp": "2026-03-26T18:30:01.761024+00:00",
   "joke": {
     "type": "general",
-    "setup": "What do you call a careful wolf?",
-    "punchline": "Aware wolf.",
-    "id": 194
+    "setup": "How many apples grow on a tree?",
+    "punchline": "All of them!",
+    "id": 137
   }
 }
