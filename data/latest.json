@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-26T06:30:01.741092+00:00",
+  "timestamp": "2026-03-26T12:30:01.161718+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Why did the developer quit his job?",
-    "punchline": "Because he didn't get arrays.",
-    "id": 408
+    "type": "general",
+    "setup": "What do you call a careful wolf?",
+    "punchline": "Aware wolf.",
+    "id": 194
   }
 }
