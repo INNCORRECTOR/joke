@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-27T12:30:01.610078+00:00",
+  "timestamp": "2026-03-27T18:30:01.090422+00:00",
   "joke": {
     "type": "general",
-    "setup": "Where do sheep go to get their hair cut?",
-    "punchline": "The baa-baa shop.",
-    "id": 287
+    "setup": "Why did the rooster cross the road?",
+    "punchline": "He heard that the chickens at KFC were pretty hot.",
+    "id": 391
   }
 }
