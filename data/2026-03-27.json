@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-27T06:30:01.266990+00:00",
+  "timestamp": "2026-03-27T12:30:01.610078+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why do ducks make great detectives?",
-    "punchline": "They always quack the case.",
-    "id": 347
+    "setup": "Where do sheep go to get their hair cut?",
+    "punchline": "The baa-baa shop.",
+    "id": 287
   }
 }
