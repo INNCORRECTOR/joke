@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-28T06:30:01.191701+00:00",
+  "timestamp": "2026-03-28T12:30:01.401219+00:00",
   "joke": {
     "type": "general",
-    "setup": "Want to hear my pizza joke?",
-    "punchline": "Never mind, it's too cheesy.",
-    "id": 152
+    "setup": "When a dad drives past a graveyard: Did you know that's a popular cemetery?",
+    "punchline": "Yep, people are just dying to get in there",
+    "id": 50
   }
 }
