@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-29T12:30:02.060296+00:00",
+  "timestamp": "2026-03-29T18:30:01.470741+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why can't a bicycle stand on its own?",
-    "punchline": "It's two-tired.",
-    "id": 306
+    "setup": "How do you tell the difference between a crocodile and an alligator?",
+    "punchline": "You will see one later and one in a while.",
+    "id": 131
   }
 }
