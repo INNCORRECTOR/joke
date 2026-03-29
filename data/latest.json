@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-29T00:30:01.261803+00:00",
+  "timestamp": "2026-03-29T06:30:01.818443+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why does a chicken coop only have two doors?",
-    "punchline": "Because if it had four doors it would be a chicken sedan.",
-    "id": 356
+    "setup": "What do you call an eagle who can play the piano?",
+    "punchline": "Talonted!",
+    "id": 219
   }
 }
