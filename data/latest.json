@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-29T06:30:01.818443+00:00",
+  "timestamp": "2026-03-29T12:30:02.060296+00:00",
   "joke": {
     "type": "general",
-    "setup": "What do you call an eagle who can play the piano?",
-    "punchline": "Talonted!",
-    "id": 219
+    "setup": "Why can't a bicycle stand on its own?",
+    "punchline": "It's two-tired.",
+    "id": 306
   }
 }
