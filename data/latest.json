@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-31T12:30:01.426474+00:00",
+  "timestamp": "2026-03-31T18:30:01.186250+00:00",
   "joke": {
     "type": "general",
-    "setup": "What's the difference between a guitar and a fish?",
-    "punchline": "You can tune a guitar but you can't \"tuna\"fish!",
-    "id": 270
+    "setup": "What do you call a thieving alligator?",
+    "punchline": "A crookodile!",
+    "id": 451
   }
 }
