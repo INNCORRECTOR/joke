@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-31T06:30:01.785603+00:00",
+  "timestamp": "2026-03-31T12:30:01.426474+00:00",
   "joke": {
     "type": "general",
-    "setup": "What do you call a factory that sells passable products?",
-    "punchline": "A satisfactory",
-    "id": 49
+    "setup": "What's the difference between a guitar and a fish?",
+    "punchline": "You can tune a guitar but you can't \"tuna\"fish!",
+    "id": 270
   }
 }
