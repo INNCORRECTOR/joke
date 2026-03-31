@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-31T00:30:01.721078+00:00",
+  "timestamp": "2026-03-31T06:30:01.785603+00:00",
   "joke": {
     "type": "general",
-    "setup": "Where does Napoleon keep his armies?",
-    "punchline": "In his sleevies.",
-    "id": 292
+    "setup": "What do you call a factory that sells passable products?",
+    "punchline": "A satisfactory",
+    "id": 49
   }
 }
