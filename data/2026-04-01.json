@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-01T12:30:01.980795+00:00",
+  "timestamp": "2026-04-01T18:30:01.290328+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Why did the developer break up with their keyboard?",
-    "punchline": "It just wasn't their type anymore.",
-    "id": 447
+    "type": "general",
+    "setup": "Why did the invisible man turn down the job offer?",
+    "punchline": "He couldn't see himself doing it",
+    "id": 51
   }
 }
