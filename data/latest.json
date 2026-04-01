@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-01T06:30:01.643710+00:00",
+  "timestamp": "2026-04-01T12:30:01.980795+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What do you call a bee that lives in America?",
-    "punchline": "A USB.",
-    "id": 192
+    "type": "programming",
+    "setup": "Why did the developer break up with their keyboard?",
+    "punchline": "It just wasn't their type anymore.",
+    "id": 447
   }
 }
