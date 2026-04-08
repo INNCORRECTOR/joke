@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-08T12:30:01.574179+00:00",
+  "timestamp": "2026-04-08T18:30:01.972374+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "I just got fired from my job at the keyboard factory.",
-    "punchline": "They told me I wasn't putting in enough shifts.",
-    "id": 399
+    "type": "general",
+    "setup": "What did the fish say when it hit the wall?",
+    "punchline": "Dam.",
+    "id": 1
   }
 }
