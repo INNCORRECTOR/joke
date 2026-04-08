@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-08T00:30:01.955451+00:00",
+  "timestamp": "2026-04-08T06:30:01.253194+00:00",
   "joke": {
     "type": "general",
-    "setup": "What do you call a cow on a trampoline?",
-    "punchline": "A milk shake!",
-    "id": 195
+    "setup": "How many seconds are in a year?",
+    "punchline": "12. January 2nd, February 2nd, March 2nd, April 2nd.... etc",
+    "id": 142
   }
 }
