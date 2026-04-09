@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-09T12:30:01.601508+00:00",
+  "timestamp": "2026-04-09T18:30:01.155742+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why did the coffee file a police report?",
-    "punchline": "It got mugged.",
-    "id": 431
+    "setup": "what do you call a dog that can do magic tricks?",
+    "punchline": "a labracadabrador",
+    "id": 200
   }
 }
