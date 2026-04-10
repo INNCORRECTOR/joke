@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-10T12:30:01.232400+00:00",
+  "timestamp": "2026-04-10T18:30:01.665926+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why can't you use \"Beef stew\"as a password?",
-    "punchline": "Because it's not stroganoff.",
-    "id": 307
+    "setup": "If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?",
+    "punchline": "European",
+    "id": 38
   }
 }
