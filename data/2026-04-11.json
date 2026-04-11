@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-11T00:30:01.514559+00:00",
+  "timestamp": "2026-04-11T06:30:01.700602+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What do you call a cow with no legs?",
-    "punchline": "Ground beef!",
-    "id": 56
+    "type": "knock-knock",
+    "setup": "Knock knock. \n Who's there? \n Cows go. \n Cows go who?",
+    "punchline": "No, cows go moo.",
+    "id": 12
   }
 }
