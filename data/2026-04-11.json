@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-11T12:30:01.710024+00:00",
+  "timestamp": "2026-04-11T18:30:01.854038+00:00",
   "joke": {
     "type": "general",
-    "setup": "How many optometrists does it take to change a light bulb?",
-    "punchline": "1 or 2? 1... or 2?",
-    "id": 141
+    "setup": "What do you call a pile of cats?",
+    "punchline": "A Meowtain.",
+    "id": 214
   }
 }
