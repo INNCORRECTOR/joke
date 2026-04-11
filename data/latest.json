@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-11T06:30:01.700602+00:00",
+  "timestamp": "2026-04-11T12:30:01.710024+00:00",
   "joke": {
-    "type": "knock-knock",
-    "setup": "Knock knock. \n Who's there? \n Cows go. \n Cows go who?",
-    "punchline": "No, cows go moo.",
-    "id": 12
+    "type": "general",
+    "setup": "How many optometrists does it take to change a light bulb?",
+    "punchline": "1 or 2? 1... or 2?",
+    "id": 141
   }
 }
