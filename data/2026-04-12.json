@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-12T00:30:01.184778+00:00",
+  "timestamp": "2026-04-12T06:30:01.216076+00:00",
   "joke": {
     "type": "general",
-    "setup": "did you know the first French fries weren't cooked in France?",
-    "punchline": "they were cooked in Greece",
-    "id": 31
+    "setup": "When does a joke become a dad joke?",
+    "punchline": "When it becomes apparent.",
+    "id": 281
   }
 }
