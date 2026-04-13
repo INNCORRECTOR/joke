@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-13T12:30:01.468746+00:00",
+  "timestamp": "2026-04-13T18:30:01.574196+00:00",
   "joke": {
     "type": "general",
-    "setup": "Where was the Declaration of Independence signed?",
-    "punchline": "At the bottom! ",
-    "id": 293
+    "setup": "Did you watch the new comic book movie?",
+    "punchline": "It was very graphic!",
+    "id": 66
   }
 }
