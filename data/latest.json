@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-14T06:30:01.258402+00:00",
+  "timestamp": "2026-04-14T12:30:01.708993+00:00",
   "joke": {
     "type": "general",
-    "setup": "Did you hear about the cheese factory that exploded in France?",
-    "punchline": "There was nothing left but de Brie.",
-    "id": 86
+    "setup": "How many hipsters does it take to change a lightbulb?",
+    "punchline": "Oh, it's a really obscure number. You've probably never heard of it.",
+    "id": 139
   }
 }
