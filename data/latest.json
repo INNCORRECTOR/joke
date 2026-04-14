@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-14T12:30:01.708993+00:00",
+  "timestamp": "2026-04-14T18:30:01.324219+00:00",
   "joke": {
     "type": "general",
-    "setup": "How many hipsters does it take to change a lightbulb?",
-    "punchline": "Oh, it's a really obscure number. You've probably never heard of it.",
-    "id": 139
+    "setup": "What do ghosts call their true love?",
+    "punchline": "Their ghoul-friend",
+    "id": 102
   }
 }
