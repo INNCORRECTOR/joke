@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-15T12:30:01.680710+00:00",
+  "timestamp": "2026-04-15T18:30:01.211948+00:00",
   "joke": {
     "type": "general",
-    "setup": "What do you call a bear with no teeth?",
-    "punchline": "A gummy bear!",
-    "id": 191
+    "setup": "Where do you learn to make banana splits?",
+    "punchline": "At sundae school.",
+    "id": 288
   }
 }
