@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-16T12:30:01.651953+00:00",
+  "timestamp": "2026-04-16T18:30:02.007306+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why did the tree go to the dentist?",
-    "punchline": "It needed a root canal.",
-    "id": 335
+    "setup": "Did you hear about the runner who was criticized?",
+    "punchline": "He just took it in stride",
+    "id": 93
   }
 }
