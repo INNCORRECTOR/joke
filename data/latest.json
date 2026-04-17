@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-17T06:30:01.137951+00:00",
+  "timestamp": "2026-04-17T12:30:01.672327+00:00",
   "joke": {
     "type": "general",
-    "setup": "What do you call fake spaghetti?",
-    "punchline": "An impasta.",
-    "id": 450
+    "setup": "How does the moon cut his hair?",
+    "punchline": "Eclipse it.",
+    "id": 136
   }
 }
