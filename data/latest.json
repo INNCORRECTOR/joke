@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-17T00:30:02.026011+00:00",
+  "timestamp": "2026-04-17T06:30:01.137951+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why did the tomato blush?",
-    "punchline": "Because it saw the salad dressing.",
-    "id": 334
+    "setup": "What do you call fake spaghetti?",
+    "punchline": "An impasta.",
+    "id": 450
   }
 }
