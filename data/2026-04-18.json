@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-18T12:30:01.503806+00:00",
+  "timestamp": "2026-04-18T18:30:01.439193+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why do bees hum?",
-    "punchline": "Because they don't know the words.",
-    "id": 343
+    "setup": "What type of music do balloons hate?",
+    "punchline": "Pop music!",
+    "id": 261
   }
 }
