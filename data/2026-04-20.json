@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-20T12:30:01.865984+00:00",
+  "timestamp": "2026-04-20T18:30:01.328268+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "What goes after USA?",
-    "punchline": "USB.",
-    "id": 383
+    "type": "general",
+    "setup": "What kind of shoes does a thief wear?",
+    "punchline": "Sneakers",
+    "id": 9
   }
 }
