@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-21T00:30:01.912499+00:00",
+  "timestamp": "2026-04-21T06:30:01.148673+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What did the spaghetti say to the other spaghetti?",
-    "punchline": "Pasta la vista, baby!",
-    "id": 148
+    "type": "programming",
+    "setup": "Why did the programmer bring a ladder to work?",
+    "punchline": "They heard the code needed to be debugged from a higher level.",
+    "id": 441
   }
 }
