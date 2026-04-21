@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-21T12:30:01.677059+00:00",
+  "timestamp": "2026-04-21T18:30:01.158880+00:00",
   "joke": {
     "type": "general",
-    "setup": "What did the janitor say when he jumped out of the closet?",
-    "punchline": "Supplies!",
-    "id": 424
+    "setup": "If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?",
+    "punchline": "European",
+    "id": 38
   }
 }
