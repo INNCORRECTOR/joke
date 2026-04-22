@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-22T12:30:01.970929+00:00",
+  "timestamp": "2026-04-22T18:30:01.598454+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "What did the Java code say to the C code?",
-    "punchline": "You've got no class.",
-    "id": 380
+    "type": "general",
+    "setup": "Did you hear about the new restaurant on the moon?",
+    "punchline": "The food is great, but there\u2019s just no atmosphere.",
+    "id": 92
   }
 }
