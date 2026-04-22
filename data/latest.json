@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-22T06:30:01.273359+00:00",
+  "timestamp": "2026-04-22T12:30:01.970929+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Why did the chicken cross the playground?",
-    "punchline": "To get to the other slide.",
-    "id": 428
+    "type": "programming",
+    "setup": "What did the Java code say to the C code?",
+    "punchline": "You've got no class.",
+    "id": 380
   }
 }
