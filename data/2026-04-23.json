@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-23T06:30:01.182622+00:00",
+  "timestamp": "2026-04-23T12:30:02.031957+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Why was the designer always cold?",
-    "punchline": "Because they always used too much ice-olation.",
-    "id": 445
+    "type": "general",
+    "setup": "What's blue and not very heavy?",
+    "punchline": "Light blue.",
+    "id": 265
   }
 }
