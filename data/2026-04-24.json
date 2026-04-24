@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-24T12:30:01.159423+00:00",
+  "timestamp": "2026-04-24T18:30:01.782543+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What's red and bad for your teeth?",
-    "punchline": "A Brick.",
-    "id": 268
+    "type": "programming",
+    "setup": "What did the Java code say to the C code?",
+    "punchline": "You've got no class.",
+    "id": 380
   }
 }
