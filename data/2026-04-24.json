@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-24T06:30:01.373463+00:00",
+  "timestamp": "2026-04-24T12:30:01.159423+00:00",
   "joke": {
     "type": "general",
-    "setup": "How does a train eat?",
-    "punchline": "It goes chew, chew",
-    "id": 6
+    "setup": "What's red and bad for your teeth?",
+    "punchline": "A Brick.",
+    "id": 268
   }
 }
