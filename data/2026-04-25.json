@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-25T06:30:01.901483+00:00",
+  "timestamp": "2026-04-25T12:30:01.220258+00:00",
   "joke": {
     "type": "general",
-    "setup": "What do you call an alligator in a vest?",
-    "punchline": "An in-vest-igator!",
-    "id": 217
+    "setup": "Why didn\u2019t the orange win the race?",
+    "punchline": "It ran out of juice.",
+    "id": 338
   }
 }
