@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-25T00:30:01.691096+00:00",
+  "timestamp": "2026-04-25T06:30:01.901483+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "I just got fired from my job at the keyboard factory.",
-    "punchline": "They told me I wasn't putting in enough shifts.",
-    "id": 399
+    "type": "general",
+    "setup": "What do you call an alligator in a vest?",
+    "punchline": "An in-vest-igator!",
+    "id": 217
   }
 }
