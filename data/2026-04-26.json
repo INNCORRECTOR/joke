@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-26T12:30:01.268998+00:00",
+  "timestamp": "2026-04-26T18:30:01.879809+00:00",
   "joke": {
     "type": "general",
-    "setup": "How does a dyslexic poet write?",
-    "punchline": "Inverse.",
-    "id": 132
+    "setup": "Why don't skeletons fight each other?",
+    "punchline": "They don't have the guts.",
+    "id": 449
   }
 }
