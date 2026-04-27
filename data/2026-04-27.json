@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-27T06:30:01.392445+00:00",
+  "timestamp": "2026-04-27T12:30:02.034143+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "How many React developers does it take to change a lightbulb?",
-    "punchline": "None, they prefer dark mode.",
-    "id": 410
+    "type": "dad",
+    "setup": "Why do fathers take an extra pair of socks when they go golfing?",
+    "punchline": "In case they get a hole in one!",
+    "id": 378
   }
 }
