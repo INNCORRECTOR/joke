@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-27T12:30:02.034143+00:00",
+  "timestamp": "2026-04-27T18:30:01.693867+00:00",
   "joke": {
-    "type": "dad",
-    "setup": "Why do fathers take an extra pair of socks when they go golfing?",
-    "punchline": "In case they get a hole in one!",
-    "id": 378
+    "type": "general",
+    "setup": "What do you give a sick lemon?",
+    "punchline": "Lemonaid.",
+    "id": 233
   }
 }
