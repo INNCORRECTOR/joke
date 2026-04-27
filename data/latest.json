@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-27T00:30:01.390465+00:00",
+  "timestamp": "2026-04-27T06:30:01.392445+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Why did the coffee file a police report?",
-    "punchline": "It got mugged.",
-    "id": 431
+    "type": "programming",
+    "setup": "How many React developers does it take to change a lightbulb?",
+    "punchline": "None, they prefer dark mode.",
+    "id": 410
   }
 }
