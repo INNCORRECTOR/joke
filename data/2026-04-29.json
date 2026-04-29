@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-29T00:30:01.197418+00:00",
+  "timestamp": "2026-04-29T06:30:01.370958+00:00",
   "joke": {
     "type": "programming",
-    "setup": "Why would a guitarist become a good programmer?",
-    "punchline": "He's adept at riffing in C#.",
-    "id": 14
+    "setup": "If you put a million monkeys at a million keyboards, one of them will eventually write a Java program",
+    "punchline": "the rest of them will write Perl",
+    "id": 25
   }
 }
