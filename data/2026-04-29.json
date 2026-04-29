@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-29T06:30:01.370958+00:00",
+  "timestamp": "2026-04-29T12:30:01.381028+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "If you put a million monkeys at a million keyboards, one of them will eventually write a Java program",
-    "punchline": "the rest of them will write Perl",
-    "id": 25
+    "type": "general",
+    "setup": "Why did the coffee file a police report?",
+    "punchline": "It got mugged.",
+    "id": 319
   }
 }
