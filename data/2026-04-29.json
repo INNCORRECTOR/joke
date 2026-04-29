@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-29T12:30:01.381028+00:00",
+  "timestamp": "2026-04-29T18:30:01.212083+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why did the coffee file a police report?",
-    "punchline": "It got mugged.",
-    "id": 319
+    "setup": "What's black and white and read all over?",
+    "punchline": "The newspaper.",
+    "id": 264
   }
 }
