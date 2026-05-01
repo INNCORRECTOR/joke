@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-01T00:30:01.759548+00:00",
+  "timestamp": "2026-05-01T06:30:01.765189+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why do trees seem suspicious on sunny days?",
-    "punchline": "Dunno, they're just a bit shady.",
-    "id": 352
+    "setup": "How many seconds are in a year?",
+    "punchline": "12. January 2nd, February 2nd, March 2nd, April 2nd.... etc",
+    "id": 142
   }
 }
