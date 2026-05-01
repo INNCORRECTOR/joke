@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-01T12:30:01.815920+00:00",
+  "timestamp": "2026-05-01T18:30:01.992559+00:00",
   "joke": {
     "type": "general",
-    "setup": "What do you call a troublesome Canadian high schooler?",
-    "punchline": "A poutine.",
-    "id": 216
+    "setup": "What did the pirate say on his 80th birthday?",
+    "punchline": "Aye Matey!",
+    "id": 181
   }
 }
