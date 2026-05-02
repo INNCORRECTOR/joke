@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-02T12:30:01.841172+00:00",
+  "timestamp": "2026-05-02T18:30:01.886205+00:00",
   "joke": {
     "type": "general",
-    "setup": "What do you call a fat psychic?",
-    "punchline": "A four-chin teller.",
-    "id": 205
+    "setup": "Why are skeletons so calm?",
+    "punchline": "Because nothing gets under their skin.",
+    "id": 305
   }
 }
