@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-02T00:30:01.343872+00:00",
+  "timestamp": "2026-05-02T06:30:01.433864+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Why did the programmer quit their job?",
-    "punchline": "They didn't get arrays.",
-    "id": 437
+    "type": "general",
+    "setup": "What's the best thing about elevator jokes?",
+    "punchline": "They work on so many levels.",
+    "id": 269
   }
 }
