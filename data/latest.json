@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-04T06:30:01.879614+00:00",
+  "timestamp": "2026-05-04T12:30:01.465625+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why did the kid cross the playground?",
-    "punchline": "To get to the other slide.",
-    "id": 327
+    "setup": "Did you hear the news?",
+    "punchline": "FedEx and UPS are merging. They\u2019re going to go by the name Fed-Up from now on.",
+    "id": 99
   }
 }
