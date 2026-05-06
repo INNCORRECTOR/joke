@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-06T12:30:01.188620+00:00",
+  "timestamp": "2026-05-06T18:30:01.551472+00:00",
   "joke": {
     "type": "general",
-    "setup": "Did you know you should always take an extra pair of pants golfing?",
-    "punchline": "Just in case you get a hole in one.",
-    "id": 104
+    "setup": "Can a kangaroo jump higher than the Empire State Building?",
+    "punchline": "Of course. The Empire State Building can't jump.",
+    "id": 80
   }
 }
