@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-06T06:30:01.790435+00:00",
+  "timestamp": "2026-05-06T12:30:01.188620+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Lady: How do I spread love in this cruel world?",
-    "punchline": "Random Dude: [...\ud83d\udc98]",
-    "id": 58
+    "type": "general",
+    "setup": "Did you know you should always take an extra pair of pants golfing?",
+    "punchline": "Just in case you get a hole in one.",
+    "id": 104
   }
 }
