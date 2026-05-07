@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-07T12:30:01.409810+00:00",
+  "timestamp": "2026-05-07T18:30:01.151937+00:00",
   "joke": {
     "type": "general",
-    "setup": "What do you call someone with no nose?",
-    "punchline": "Nobody knows.",
-    "id": 224
+    "setup": "Why did the invisible man turn down the job offer?",
+    "punchline": "He couldn't see himself doing it",
+    "id": 51
   }
 }
