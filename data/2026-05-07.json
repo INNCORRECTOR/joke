@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-07T00:30:01.282189+00:00",
+  "timestamp": "2026-05-07T06:30:01.659282+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "An IPv6 packet is walking out of the house.",
-    "punchline": "He goes nowhere.",
-    "id": 367
+    "type": "general",
+    "setup": "Why didn't the skeleton go for prom?",
+    "punchline": "Because it had nobody.",
+    "id": 396
   }
 }
