@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-08T06:30:01.841960+00:00",
+  "timestamp": "2026-05-08T12:30:01.576364+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why did the worker get fired from the orange juice factory?",
-    "punchline": "Lack of concentration.",
-    "id": 336
+    "setup": "How do you make a tissue dance?",
+    "punchline": "You put a little boogie on it.",
+    "id": 2
   }
 }
