@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-09T00:30:01.173494+00:00",
+  "timestamp": "2026-05-09T06:30:01.402755+00:00",
   "joke": {
     "type": "general",
-    "setup": "What do you get when you cross a chicken with a skunk?",
-    "punchline": "A fowl smell!",
-    "id": 230
+    "setup": "What is the difference between ignorance and apathy?",
+    "punchline": "I don't know and I don't care.",
+    "id": 244
   }
 }
