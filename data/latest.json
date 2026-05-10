@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-10T12:30:01.840982+00:00",
+  "timestamp": "2026-05-10T18:30:01.197130+00:00",
   "joke": {
     "type": "general",
-    "setup": "What\u2019s the advantage of living in Switzerland?",
-    "punchline": "Well, the flag is a big plus.",
-    "id": 278
+    "setup": "Where do hamburgers go to dance?",
+    "punchline": "The meat-ball.",
+    "id": 285
   }
 }
