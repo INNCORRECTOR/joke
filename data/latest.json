@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-10T00:30:01.234976+00:00",
+  "timestamp": "2026-05-10T06:30:01.440281+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why did the cowboy have a weiner dog?",
-    "punchline": "Somebody told him to get a long little doggy.",
-    "id": 322
+    "setup": "How does a French skeleton say hello?",
+    "punchline": "Bone-jour.",
+    "id": 133
   }
 }
