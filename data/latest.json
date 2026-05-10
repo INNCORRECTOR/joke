@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-10T06:30:01.440281+00:00",
+  "timestamp": "2026-05-10T12:30:01.840982+00:00",
   "joke": {
     "type": "general",
-    "setup": "How does a French skeleton say hello?",
-    "punchline": "Bone-jour.",
-    "id": 133
+    "setup": "What\u2019s the advantage of living in Switzerland?",
+    "punchline": "Well, the flag is a big plus.",
+    "id": 278
   }
 }
