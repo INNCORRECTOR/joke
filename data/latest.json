@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-11T00:30:01.765956+00:00",
+  "timestamp": "2026-05-11T06:30:02.058826+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why did the tree go to the dentist?",
-    "punchline": "It needed a root canal.",
-    "id": 335
+    "setup": "Where do rabbits go after they get married?",
+    "punchline": "On a bunny-moon.",
+    "id": 286
   }
 }
