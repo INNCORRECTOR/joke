@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-11T12:30:01.746767+00:00",
+  "timestamp": "2026-05-11T18:30:01.980432+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What's the worst thing about ancient history class?",
-    "punchline": "The teachers tend to Babylon.",
-    "id": 274
+    "type": "programming",
+    "setup": "A programmer puts two glasses on his bedside table before going to sleep.",
+    "punchline": "A full one, in case he gets thirsty, and an empty one, in case he doesn\u2019t.",
+    "id": 364
   }
 }
