@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-12T06:30:01.547274+00:00",
+  "timestamp": "2026-05-12T12:30:01.328054+00:00",
   "joke": {
     "type": "general",
-    "setup": "How does a train eat?",
-    "punchline": "It goes chew, chew",
-    "id": 6
+    "setup": "Why didn\u2019t the orange win the race?",
+    "punchline": "It ran out of juice.",
+    "id": 338
   }
 }
