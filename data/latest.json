@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-13T12:30:01.656832+00:00",
+  "timestamp": "2026-05-13T18:30:01.556044+00:00",
   "joke": {
     "type": "general",
-    "setup": "What kind of music do planets listen to?",
-    "punchline": "Nep-tunes.",
-    "id": 255
+    "setup": "Why do chicken coops only have two doors?",
+    "punchline": "Because if they had four, they would be chicken sedans",
+    "id": 48
   }
 }
