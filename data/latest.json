@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-15T06:30:01.085223+00:00",
+  "timestamp": "2026-05-15T12:30:01.655315+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why does Waldo only wear stripes?",
-    "punchline": "Because he doesn't want to be spotted.",
-    "id": 361
+    "setup": "What's the difference between a seal and a sea lion?",
+    "punchline": "An ion! ",
+    "id": 272
   }
 }
