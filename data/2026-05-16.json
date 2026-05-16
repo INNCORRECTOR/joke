@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-16T12:30:01.649154+00:00",
+  "timestamp": "2026-05-16T18:30:01.166407+00:00",
   "joke": {
     "type": "general",
-    "setup": "Did you hear that the police have a warrant out on a midget psychic ripping people off?",
-    "punchline": "It reads \"Small medium at large.\"",
-    "id": 97
+    "setup": "Why do trees seem suspicious on sunny days?",
+    "punchline": "Dunno, they're just a bit shady.",
+    "id": 352
   }
 }
