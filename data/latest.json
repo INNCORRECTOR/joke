@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-16T00:30:01.911853+00:00",
+  "timestamp": "2026-05-16T06:30:01.102377+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Why did the programmer quit his job?",
-    "punchline": "Because he didn't get arrays.",
-    "id": 18
+    "type": "general",
+    "setup": "Why did the A go to the bathroom and come out as an E?",
+    "punchline": "Because he had a vowel movement.",
+    "id": 314
   }
 }
