@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-17T00:30:01.216396+00:00",
+  "timestamp": "2026-05-17T06:30:01.446065+00:00",
   "joke": {
     "type": "general",
-    "setup": "How do the trees get on the internet?",
-    "punchline": "They log on.",
-    "id": 120
+    "setup": "Why do chicken coops only have two doors?",
+    "punchline": "Because if they had four, they would be chicken sedans",
+    "id": 48
   }
 }
