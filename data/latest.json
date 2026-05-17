@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-17T06:30:01.446065+00:00",
+  "timestamp": "2026-05-17T12:30:02.000386+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why do chicken coops only have two doors?",
-    "punchline": "Because if they had four, they would be chicken sedans",
-    "id": 48
+    "setup": "I dropped a pear in my car this morning.",
+    "punchline": "You should drop another one, then you would have a pair.",
+    "id": 57
   }
 }
