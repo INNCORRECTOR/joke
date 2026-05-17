@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-17T12:30:02.000386+00:00",
+  "timestamp": "2026-05-17T18:30:01.465267+00:00",
   "joke": {
     "type": "general",
-    "setup": "I dropped a pear in my car this morning.",
-    "punchline": "You should drop another one, then you would have a pair.",
-    "id": 57
+    "setup": "Did you hear about the bread factory burning down?",
+    "punchline": "They say the business is toast.",
+    "id": 84
   }
 }
