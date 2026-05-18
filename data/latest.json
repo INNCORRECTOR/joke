@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-18T12:30:01.565502+00:00",
+  "timestamp": "2026-05-18T18:30:01.493298+00:00",
   "joke": {
     "type": "general",
-    "setup": "What type of music do balloons hate?",
-    "punchline": "Pop music!",
-    "id": 261
+    "setup": "What time did the man go to the dentist?",
+    "punchline": "Tooth hurt-y.",
+    "id": 260
   }
 }
