@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-18T00:30:01.626384+00:00",
+  "timestamp": "2026-05-18T06:30:01.836726+00:00",
   "joke": {
-    "type": "knock-knock",
-    "setup": "Knock knock. \n Who's there? \n Cows go. \n Cows go who?",
-    "punchline": "No, cows go moo.",
-    "id": 12
+    "type": "general",
+    "setup": "Where do you learn to make banana splits?",
+    "punchline": "At sundae school.",
+    "id": 288
   }
 }
