@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-18T06:30:01.836726+00:00",
+  "timestamp": "2026-05-18T12:30:01.565502+00:00",
   "joke": {
     "type": "general",
-    "setup": "Where do you learn to make banana splits?",
-    "punchline": "At sundae school.",
-    "id": 288
+    "setup": "What type of music do balloons hate?",
+    "punchline": "Pop music!",
+    "id": 261
   }
 }
