@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-22T12:30:01.403756+00:00",
+  "timestamp": "2026-05-22T18:30:01.204404+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why was Cinderalla thrown out of the football team?",
-    "punchline": "Because she ran away from the ball.",
-    "id": 373
+    "setup": "What do you give a sick lemon?",
+    "punchline": "Lemonaid.",
+    "id": 233
   }
 }
