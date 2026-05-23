@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-23T06:30:01.568755+00:00",
+  "timestamp": "2026-05-23T12:30:01.503695+00:00",
   "joke": {
-    "type": "dad",
-    "setup": "Why do fathers take an extra pair of socks when they go golfing?",
-    "punchline": "In case they get a hole in one!",
-    "id": 378
+    "type": "general",
+    "setup": "Why did the coffee file a police report?",
+    "punchline": "It got mugged.",
+    "id": 319
   }
 }
