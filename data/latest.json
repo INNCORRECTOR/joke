@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-23T00:30:01.380006+00:00",
+  "timestamp": "2026-05-23T06:30:01.568755+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Why are pirates called pirates?",
-    "punchline": "Because they arrr!",
-    "id": 304
+    "type": "dad",
+    "setup": "Why do fathers take an extra pair of socks when they go golfing?",
+    "punchline": "In case they get a hole in one!",
+    "id": 378
   }
 }
