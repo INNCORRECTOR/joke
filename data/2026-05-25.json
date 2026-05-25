@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-25T00:30:01.855259+00:00",
+  "timestamp": "2026-05-25T06:30:01.305085+00:00",
   "joke": {
     "type": "general",
-    "setup": "did you know the first French fries weren't cooked in France?",
-    "punchline": "they were cooked in Greece",
-    "id": 31
+    "setup": "Why did Dracula lie in the wrong coffin?",
+    "punchline": "He made a grave mistake.",
+    "id": 312
   }
 }
