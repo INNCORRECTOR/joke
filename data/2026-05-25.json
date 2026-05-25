@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-25T12:30:01.588559+00:00",
+  "timestamp": "2026-05-25T18:30:02.063615+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What do you call a duck that gets all A's?",
-    "punchline": "A wise quacker.",
-    "id": 202
+    "type": "programming",
+    "setup": "To understand what recursion is...",
+    "punchline": "You must first understand what recursion is",
+    "id": 27
   }
 }

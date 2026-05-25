@@ -1,2 +1,2 @@
-What do you call a duck that gets all A's?
-A wise quacker.
+To understand what recursion is...
+You must first understand what recursion is
