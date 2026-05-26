@@ -1,2 +1,2 @@
-To understand what recursion is...
-You must first understand what recursion is
+When is a door not a door?
+When it's ajar.
