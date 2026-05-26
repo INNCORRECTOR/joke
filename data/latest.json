@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-26T06:30:01.182430+00:00",
+  "timestamp": "2026-05-26T12:30:02.015356+00:00",
   "joke": {
     "type": "general",
-    "setup": "What do you call a boomerang that won't come back?",
-    "punchline": "A stick.",
-    "id": 193
+    "setup": "Did you hear the joke about the wandering nun?",
+    "punchline": "She was a roman catholic.",
+    "id": 98
   }
 }
