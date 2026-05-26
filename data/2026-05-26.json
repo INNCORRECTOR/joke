@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-26T00:30:01.760549+00:00",
+  "timestamp": "2026-05-26T06:30:01.182430+00:00",
   "joke": {
     "type": "general",
-    "setup": "When is a door not a door?",
-    "punchline": "When it's ajar.",
-    "id": 282
+    "setup": "What do you call a boomerang that won't come back?",
+    "punchline": "A stick.",
+    "id": 193
   }
 }
