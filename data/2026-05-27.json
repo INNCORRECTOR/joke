@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-27T06:30:01.976622+00:00",
+  "timestamp": "2026-05-27T12:30:01.824196+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What do you call a dictionary on drugs?",
-    "punchline": "High definition.",
-    "id": 199
+    "type": "programming",
+    "setup": "How many programmers does it take to change a lightbulb?",
+    "punchline": "None that's a hardware problem",
+    "id": 24
   }
 }
