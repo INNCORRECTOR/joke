@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-28T12:30:01.462470+00:00",
+  "timestamp": "2026-05-28T18:30:01.878590+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "I just got fired from my job at the keyboard factory.",
-    "punchline": "They told me I wasn't putting in enough shifts.",
-    "id": 399
+    "type": "general",
+    "setup": "Why did the golfer bring two pairs of pants?",
+    "punchline": "In case he got a hole in one.",
+    "id": 427
   }
 }
