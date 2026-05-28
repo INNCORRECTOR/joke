@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-28T06:30:01.887415+00:00",
+  "timestamp": "2026-05-28T12:30:01.462470+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Well...",
-    "punchline": "That\u2019s a deep subject.",
-    "id": 64
+    "type": "programming",
+    "setup": "I just got fired from my job at the keyboard factory.",
+    "punchline": "They told me I wasn't putting in enough shifts.",
+    "id": 399
   }
 }
