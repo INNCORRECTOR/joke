@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-29T00:30:01.446451+00:00",
+  "timestamp": "2026-05-29T06:30:01.837036+00:00",
   "joke": {
     "type": "general",
-    "setup": "Did you hear the news?",
-    "punchline": "FedEx and UPS are merging. They\u2019re going to go by the name Fed-Up from now on.",
-    "id": 99
+    "setup": "What do you call a pig with three eyes?",
+    "punchline": "Piiig",
+    "id": 213
   }
 }
