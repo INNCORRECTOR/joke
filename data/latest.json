@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-29T12:30:01.696572+00:00",
+  "timestamp": "2026-05-29T18:30:01.556726+00:00",
   "joke": {
-    "type": "dad",
-    "setup": "Why don't eggs tell jokes?",
-    "punchline": "Because they would crack each other up.",
-    "id": 384
+    "type": "programming",
+    "setup": "What's the best part about TCP jokes?",
+    "punchline": "I get to keep telling them until you get them.",
+    "id": 363
   }
 }
