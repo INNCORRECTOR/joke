@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-29T06:30:01.837036+00:00",
+  "timestamp": "2026-05-29T12:30:01.696572+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What do you call a pig with three eyes?",
-    "punchline": "Piiig",
-    "id": 213
+    "type": "dad",
+    "setup": "Why don't eggs tell jokes?",
+    "punchline": "Because they would crack each other up.",
+    "id": 384
   }
 }
