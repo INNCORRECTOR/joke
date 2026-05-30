@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-30T00:30:01.489716+00:00",
+  "timestamp": "2026-05-30T06:30:01.739990+00:00",
   "joke": {
     "type": "general",
-    "setup": "What do you call a pig that knows karate?",
-    "punchline": "A pork chop!",
-    "id": 212
+    "setup": "Why do crabs never give to charity?",
+    "punchline": "Because they\u2019re shellfish.",
+    "id": 346
   }
 }
