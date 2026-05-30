@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-30T06:30:01.739990+00:00",
+  "timestamp": "2026-05-30T12:30:01.651642+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why do crabs never give to charity?",
-    "punchline": "Because they\u2019re shellfish.",
-    "id": 346
+    "setup": "What do you call a duck that gets all A's?",
+    "punchline": "A wise quacker.",
+    "id": 202
   }
 }
