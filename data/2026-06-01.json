@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-01T12:30:01.137660+00:00",
+  "timestamp": "2026-06-01T18:30:02.060142+00:00",
   "joke": {
     "type": "general",
-    "setup": "What\u2019s 50 Cent\u2019s name in Zimbabwe?",
-    "punchline": "200 Dollars.",
-    "id": 149
+    "setup": "How do you fix a damaged jack-o-lantern?",
+    "punchline": "You use a pumpkin patch.",
+    "id": 123
   }
 }
