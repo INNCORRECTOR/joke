@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-02T12:30:02.017359+00:00",
+  "timestamp": "2026-06-02T18:30:02.012855+00:00",
   "joke": {
     "type": "general",
-    "setup": "Where does batman go to the bathroom?",
-    "punchline": "The batroom.",
-    "id": 290
+    "setup": "Can February march?",
+    "punchline": "No, but April may.",
+    "id": 81
   }
 }
