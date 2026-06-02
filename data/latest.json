@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-02T00:30:01.759593+00:00",
+  "timestamp": "2026-06-02T06:30:02.057616+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Why was the designer always cold?",
-    "punchline": "Because they always used too much ice-olation.",
-    "id": 445
+    "type": "general",
+    "setup": "When do doctors get angry?",
+    "punchline": "When they run out of patients.",
+    "id": 280
   }
 }
