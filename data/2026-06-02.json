@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-02T06:30:02.057616+00:00",
+  "timestamp": "2026-06-02T12:30:02.017359+00:00",
   "joke": {
     "type": "general",
-    "setup": "When do doctors get angry?",
-    "punchline": "When they run out of patients.",
-    "id": 280
+    "setup": "Where does batman go to the bathroom?",
+    "punchline": "The batroom.",
+    "id": 290
   }
 }
