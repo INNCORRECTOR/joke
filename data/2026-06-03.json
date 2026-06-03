@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-03T00:30:01.878033+00:00",
+  "timestamp": "2026-06-03T06:30:01.351979+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "What's the best part about TCP jokes?",
-    "punchline": "I get to keep telling them until you get them.",
-    "id": 363
+    "type": "general",
+    "setup": "What\u2019s 50 Cent\u2019s name in Zimbabwe?",
+    "punchline": "200 Dollars.",
+    "id": 149
   }
 }
