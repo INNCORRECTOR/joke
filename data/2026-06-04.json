@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-04T00:30:02.019815+00:00",
+  "timestamp": "2026-06-04T06:30:01.677376+00:00",
   "joke": {
     "type": "general",
-    "setup": "What's brown and sticky?",
-    "punchline": "A stick.",
-    "id": 266
+    "setup": "What did the late tomato say to the early tomato?",
+    "punchline": "I\u2019ll ketch up",
+    "id": 175
   }
 }
