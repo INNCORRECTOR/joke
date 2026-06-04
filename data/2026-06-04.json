@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-04T06:30:01.677376+00:00",
+  "timestamp": "2026-06-04T12:30:01.352314+00:00",
   "joke": {
     "type": "general",
-    "setup": "What did the late tomato say to the early tomato?",
-    "punchline": "I\u2019ll ketch up",
-    "id": 175
+    "setup": "What do you call a troublesome Canadian high schooler?",
+    "punchline": "A poutine.",
+    "id": 216
   }
 }
