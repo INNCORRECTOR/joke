@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-05T06:30:01.425534+00:00",
+  "timestamp": "2026-06-05T12:30:01.425204+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Why did the functions stop calling each other?",
-    "punchline": "Because they had constant arguments.",
-    "id": 406
+    "type": "general",
+    "setup": "Where does Fonzie like to go for lunch?",
+    "punchline": "Chick-Fil-Eyyyyyyyy.",
+    "id": 291
   }
 }
