@@ -1,2 +1,2 @@
-What biscuit does a short person like?
-Shortbread. 
+Why did the functions stop calling each other?
+Because they had constant arguments.
