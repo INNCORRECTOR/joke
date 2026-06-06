@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-06T12:30:01.703340+00:00",
+  "timestamp": "2026-06-06T18:30:01.100255+00:00",
   "joke": {
     "type": "general",
-    "setup": "How does a train eat?",
-    "punchline": "It goes chew, chew",
-    "id": 6
+    "setup": "What do you call a belt made out of watches?",
+    "punchline": "A waist of time.",
+    "id": 4
   }
 }
