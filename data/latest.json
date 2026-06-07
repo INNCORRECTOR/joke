@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-07T06:30:01.404205+00:00",
+  "timestamp": "2026-06-07T12:30:01.155682+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "To understand what recursion is...",
-    "punchline": "You must first understand what recursion is",
-    "id": 27
+    "type": "general",
+    "setup": "What do you call a factory that sells passable products?",
+    "punchline": "A satisfactory",
+    "id": 49
   }
 }
