@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-07T00:30:02.004442+00:00",
+  "timestamp": "2026-06-07T06:30:01.404205+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What did the shy pebble wish for?",
-    "punchline": "That she was a little boulder.",
-    "id": 184
+    "type": "programming",
+    "setup": "To understand what recursion is...",
+    "punchline": "You must first understand what recursion is",
+    "id": 27
   }
 }
