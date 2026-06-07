@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-07T12:30:01.155682+00:00",
+  "timestamp": "2026-06-07T18:30:01.696807+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What do you call a factory that sells passable products?",
-    "punchline": "A satisfactory",
-    "id": 49
+    "type": "programming",
+    "setup": "What's the best thing about a Boolean?",
+    "punchline": "Even if you're wrong, you're only off by a bit.",
+    "id": 15
   }
 }
