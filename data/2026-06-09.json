@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-09T06:30:01.268324+00:00",
+  "timestamp": "2026-06-09T12:30:01.462640+00:00",
   "joke": {
     "type": "general",
-    "setup": "Do you know where you can get chicken broth in bulk?",
-    "punchline": "The stock market.",
-    "id": 106
+    "setup": "Why did the fireman wear red, white, and blue suspenders?",
+    "punchline": "To hold his pants up.",
+    "id": 323
   }
 }
