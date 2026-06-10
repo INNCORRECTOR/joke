@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-10T06:30:01.774458+00:00",
+  "timestamp": "2026-06-10T12:30:01.845293+00:00",
   "joke": {
     "type": "general",
-    "setup": "What's blue and not very heavy?",
-    "punchline": "Light blue.",
-    "id": 265
+    "setup": "Why did the butcher work extra hours at the shop?",
+    "punchline": "To make ends meat.",
+    "id": 62
   }
 }
