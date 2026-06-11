@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-11T12:30:01.681022+00:00",
+  "timestamp": "2026-06-11T18:30:01.617315+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Why can't a bicycle stand on its own?",
-    "punchline": "It's two-tired.",
-    "id": 306
+    "type": "programming",
+    "setup": "Why don't programmers like nature?",
+    "punchline": "Too many bugs.",
+    "id": 440
   }
 }
