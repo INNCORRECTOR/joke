@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-13T06:30:01.942424+00:00",
+  "timestamp": "2026-06-13T12:30:01.791265+00:00",
   "joke": {
     "type": "general",
-    "setup": "What do you call corn that joins the army?",
-    "punchline": "Kernel.",
-    "id": 223
+    "setup": "Why are ghosts bad liars?",
+    "punchline": "Because you can see right through them!",
+    "id": 300
   }
 }
