@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-13T00:30:01.641853+00:00",
+  "timestamp": "2026-06-13T06:30:01.942424+00:00",
   "joke": {
     "type": "general",
-    "setup": "What kind of tree fits in your hand?",
-    "punchline": "A palm tree!",
-    "id": 257
+    "setup": "What do you call corn that joins the army?",
+    "punchline": "Kernel.",
+    "id": 223
   }
 }
