@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-13T12:30:01.791265+00:00",
+  "timestamp": "2026-06-13T18:30:01.463025+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Why are ghosts bad liars?",
-    "punchline": "Because you can see right through them!",
-    "id": 300
+    "type": "programming",
+    "setup": "Why dot net developers don't wear glasses?",
+    "punchline": "Because they see sharp.",
+    "id": 376
   }
 }
