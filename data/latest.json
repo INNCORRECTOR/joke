@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-18T00:30:02.056747+00:00",
+  "timestamp": "2026-06-18T06:30:01.654367+00:00",
   "joke": {
     "type": "general",
-    "setup": "What's black and white and read all over?",
-    "punchline": "The newspaper.",
-    "id": 264
+    "setup": "What kind of award did the dentist receive?",
+    "punchline": "A little plaque.",
+    "id": 250
   }
 }
