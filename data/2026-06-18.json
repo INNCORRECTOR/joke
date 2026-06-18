@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-18T12:30:01.529537+00:00",
+  "timestamp": "2026-06-18T18:30:01.576413+00:00",
   "joke": {
-    "type": "general",
-    "setup": "How do you fix a damaged jack-o-lantern?",
-    "punchline": "You use a pumpkin patch.",
-    "id": 123
+    "type": "programming",
+    "setup": "Which song would an exception sing?",
+    "punchline": "Can't catch me - Avicii",
+    "id": 32
   }
 }
