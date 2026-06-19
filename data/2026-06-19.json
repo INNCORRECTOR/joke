@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-19T00:30:01.714400+00:00",
+  "timestamp": "2026-06-19T06:30:01.758412+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "What did the router say to the doctor?",
-    "punchline": "It hurts when IP.",
-    "id": 366
+    "type": "general",
+    "setup": "A termite walks into a bar and says...",
+    "punchline": "'Where is the bar tended?'",
+    "id": 21
   }
 }
