@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-21T12:30:01.361712+00:00",
+  "timestamp": "2026-06-21T18:30:01.892325+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why couldn't the kid see the pirate movie?",
-    "punchline": "Because it was rated arrr!",
-    "id": 310
+    "setup": "Did you hear about the hungry clock?",
+    "punchline": "It went back four seconds.",
+    "id": 63
   }
 }
