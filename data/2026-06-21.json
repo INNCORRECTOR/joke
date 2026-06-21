@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-21T06:30:01.838637+00:00",
+  "timestamp": "2026-06-21T12:30:01.361712+00:00",
   "joke": {
     "type": "general",
-    "setup": "Have you heard of the band 1023MB?",
-    "punchline": "They haven't got a gig yet.",
-    "id": 110
+    "setup": "Why couldn't the kid see the pirate movie?",
+    "punchline": "Because it was rated arrr!",
+    "id": 310
   }
 }
