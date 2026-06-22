@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-22T12:30:01.942101+00:00",
+  "timestamp": "2026-06-22T18:30:01.680433+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why do you never see elephants hiding in trees?",
-    "punchline": "Because they're so good at it.",
-    "id": 355
+    "setup": "Where was the Declaration of Independence signed?",
+    "punchline": "At the bottom! ",
+    "id": 293
   }
 }
