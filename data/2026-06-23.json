@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-23T12:30:01.660066+00:00",
+  "timestamp": "2026-06-23T18:30:01.949307+00:00",
   "joke": {
-    "type": "general",
-    "setup": "How was the snow globe feeling after the storm?",
-    "punchline": "A little shaken.",
-    "id": 145
+    "type": "programming",
+    "setup": "The punchline often arrives before the set-up.",
+    "punchline": "Do you know the problem with UDP jokes?",
+    "id": 72
   }
 }
