@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-23T00:30:02.001761+00:00",
+  "timestamp": "2026-06-23T06:30:01.684133+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why are pirates called pirates?",
-    "punchline": "Because they arrr!",
-    "id": 304
+    "setup": "Why do ducks make great detectives?",
+    "punchline": "They always quack the case.",
+    "id": 347
   }
 }
