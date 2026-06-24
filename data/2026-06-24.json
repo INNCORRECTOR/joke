@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-24T00:30:02.053993+00:00",
+  "timestamp": "2026-06-24T06:30:01.504223+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Want to hear my pizza joke?",
-    "punchline": "Never mind, it's too cheesy.",
-    "id": 152
+    "type": "programming",
+    "setup": "I was gonna tell you a joke about UDP...",
+    "punchline": "...but you might not get it.",
+    "id": 71
   }
 }
