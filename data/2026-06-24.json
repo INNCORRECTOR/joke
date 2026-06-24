@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-24T06:30:01.504223+00:00",
+  "timestamp": "2026-06-24T12:30:01.258452+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "I was gonna tell you a joke about UDP...",
-    "punchline": "...but you might not get it.",
-    "id": 71
+    "type": "general",
+    "setup": "Why do bears have hairy coats?",
+    "punchline": "Fur protection.",
+    "id": 341
   }
 }
