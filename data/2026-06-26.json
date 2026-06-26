@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-26T12:30:01.318817+00:00",
+  "timestamp": "2026-06-26T18:30:01.850267+00:00",
   "joke": {
-    "type": "general",
-    "setup": "If you boil a clown...",
-    "punchline": "Do you get a laughing stock?",
-    "id": 44
+    "type": "programming",
+    "setup": "Why did the programmer's wife leave him?",
+    "punchline": "He didn't know how to commit.",
+    "id": 415
   }
 }
