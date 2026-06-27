@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-27T06:30:01.670722+00:00",
+  "timestamp": "2026-06-27T12:30:01.942520+00:00",
   "joke": {
     "type": "general",
-    "setup": "What do you call a group of killer whales playing instruments?",
-    "punchline": "An Orca-stra.",
-    "id": 209
+    "setup": "Why does Norway have barcodes on their battleships?",
+    "punchline": "So when they get back to port, they can Scandinavian.",
+    "id": 359
   }
 }
