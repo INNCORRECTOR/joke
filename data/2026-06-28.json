@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-28T12:30:01.609407+00:00",
+  "timestamp": "2026-06-28T18:30:01.093871+00:00",
   "joke": {
     "type": "general",
-    "setup": "How does a dyslexic poet write?",
-    "punchline": "Inverse.",
-    "id": 132
+    "setup": "What do you call a monkey in a mine field?",
+    "punchline": "A babooooom!",
+    "id": 210
   }
 }
