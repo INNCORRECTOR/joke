@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-28T06:30:01.838505+00:00",
+  "timestamp": "2026-06-28T12:30:01.609407+00:00",
   "joke": {
     "type": "general",
-    "setup": "Finally realized why my plant sits around doing nothing all day...",
-    "punchline": "He loves his pot.",
-    "id": 45
+    "setup": "How does a dyslexic poet write?",
+    "punchline": "Inverse.",
+    "id": 132
   }
 }
