@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-29T06:30:01.964719+00:00",
+  "timestamp": "2026-06-29T12:30:01.599680+00:00",
   "joke": {
     "type": "general",
-    "setup": "What's blue and not very heavy?",
-    "punchline": "Light blue.",
-    "id": 265
+    "setup": "What do you do on a remote island?",
+    "punchline": "Try and find the TV island it belongs to.",
+    "id": 226
   }
 }
