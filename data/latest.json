@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-29T00:30:01.429992+00:00",
+  "timestamp": "2026-06-29T06:30:01.964719+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why did the mushroom get invited to the party?",
-    "punchline": "Because he was a fungi.",
-    "id": 35
+    "setup": "What's blue and not very heavy?",
+    "punchline": "Light blue.",
+    "id": 265
   }
 }
