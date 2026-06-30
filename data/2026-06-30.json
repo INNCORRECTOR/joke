@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-06-30T12:30:01.092837+00:00",
+  "timestamp": "2026-06-30T18:30:02.023851+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why are football stadiums so cool?",
-    "punchline": "Because every seat has a fan in it.",
-    "id": 404
+    "setup": "Why do crabs never give to charity?",
+    "punchline": "Because they\u2019re shellfish.",
+    "id": 346
   }
 }
