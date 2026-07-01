@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-01T06:30:01.797668+00:00",
+  "timestamp": "2026-07-01T12:30:02.011091+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Where did the API go to eat?",
-    "punchline": "To the RESTaurant.",
-    "id": 390
+    "type": "general",
+    "setup": "Dad, can you put my shoes on?",
+    "punchline": "I don't think they'll fit me.",
+    "id": 83
   }
 }
