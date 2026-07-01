@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-01T00:30:01.661903+00:00",
+  "timestamp": "2026-07-01T06:30:01.797668+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What do you call cheese by itself?",
-    "punchline": "Provolone.",
-    "id": 222
+    "type": "programming",
+    "setup": "Where did the API go to eat?",
+    "punchline": "To the RESTaurant.",
+    "id": 390
   }
 }
