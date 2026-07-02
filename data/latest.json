@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-02T06:30:01.405794+00:00",
+  "timestamp": "2026-07-02T12:30:01.283889+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Why did the developer go to therapy?",
-    "punchline": "They had too many unresolved issues.",
-    "id": 444
+    "type": "general",
+    "setup": "What do prisoners use to call each other?",
+    "punchline": "Cell phones.",
+    "id": 189
   }
 }
