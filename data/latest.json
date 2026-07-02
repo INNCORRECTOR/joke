@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-02T00:30:01.838497+00:00",
+  "timestamp": "2026-07-02T06:30:01.405794+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Did you hear about the cow who jumped over the barbed wire fence?",
-    "punchline": "It was udder destruction.",
-    "id": 87
+    "type": "programming",
+    "setup": "Why did the developer go to therapy?",
+    "punchline": "They had too many unresolved issues.",
+    "id": 444
   }
 }
