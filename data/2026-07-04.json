@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-04T06:30:01.667755+00:00",
+  "timestamp": "2026-07-04T12:30:01.277072+00:00",
   "joke": {
     "type": "general",
-    "setup": "Did you hear about the runner who was criticized?",
-    "punchline": "He just took it in stride",
-    "id": 93
+    "setup": "What do you call an Argentinian with a rubber toe?",
+    "punchline": "Roberto",
+    "id": 218
   }
 }
