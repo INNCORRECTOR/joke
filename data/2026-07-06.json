@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-06T00:30:01.134933+00:00",
+  "timestamp": "2026-07-06T06:30:01.663924+00:00",
   "joke": {
     "type": "programming",
-    "setup": "An IPv6 packet is walking out of the house.",
-    "punchline": "He goes nowhere.",
-    "id": 367
+    "setup": "Why did the developer go broke buying Bitcoin?",
+    "punchline": "He kept calling it bytecoin and didn't get any.",
+    "id": 413
   }
 }
