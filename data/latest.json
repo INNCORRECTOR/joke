@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-06T06:30:01.663924+00:00",
+  "timestamp": "2026-07-06T12:30:01.559071+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Why did the developer go broke buying Bitcoin?",
-    "punchline": "He kept calling it bytecoin and didn't get any.",
-    "id": 413
+    "type": "general",
+    "setup": "What do you get when you cross a snowman with a vampire?",
+    "punchline": "Frostbite.",
+    "id": 232
   }
 }
