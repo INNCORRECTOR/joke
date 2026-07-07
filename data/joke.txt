@@ -1,2 +1,2 @@
-Why did the functions stop calling each other?
-Because they had constant arguments.
+What goes after USA?
+USB.
