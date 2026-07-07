@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-07T06:30:01.744946+00:00",
+  "timestamp": "2026-07-07T12:30:01.461239+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Why don't oysters give to charity?",
-    "punchline": "Because they're shellfish.",
-    "id": 432
+    "type": "programming",
+    "setup": "Why did the functions stop calling each other?",
+    "punchline": "Because they had constant arguments.",
+    "id": 406
   }
 }
