@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-08T00:30:01.296249+00:00",
+  "timestamp": "2026-07-08T06:30:01.744779+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Why did the designer break up with their font?",
-    "punchline": "Because it wasn't their type.",
-    "id": 436
+    "type": "general",
+    "setup": "What do you call a belt made out of watches?",
+    "punchline": "A waist of time.",
+    "id": 4
   }
 }
