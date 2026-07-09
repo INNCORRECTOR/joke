@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-09T06:30:01.228906+00:00",
+  "timestamp": "2026-07-09T12:30:01.830721+00:00",
   "joke": {
     "type": "general",
-    "setup": "The Sergeant-Major growled at the young soldier: I didn\u2019t see you at camouflage training this morning.",
-    "punchline": "Thank you very much, sir.",
-    "id": 387
+    "setup": "Can February march?",
+    "punchline": "No, but April may.",
+    "id": 81
   }
 }
