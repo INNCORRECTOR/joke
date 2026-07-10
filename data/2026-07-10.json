@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-10T06:30:01.847562+00:00",
+  "timestamp": "2026-07-10T12:30:01.624275+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What do birds give out on Halloween?",
-    "punchline": "Tweets.",
-    "id": 187
+    "type": "programming",
+    "setup": "Where do programmers like to hangout?",
+    "punchline": "The Foo Bar.",
+    "id": 17
   }
 }
