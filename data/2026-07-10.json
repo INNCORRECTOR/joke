@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-10T12:30:01.624275+00:00",
+  "timestamp": "2026-07-10T18:30:01.575237+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Where do programmers like to hangout?",
-    "punchline": "The Foo Bar.",
-    "id": 17
+    "type": "knock-knock",
+    "setup": "Knock knock. \n Who's there? \n Cows go. \n Cows go who?",
+    "punchline": "No, cows go moo.",
+    "id": 12
   }
 }
