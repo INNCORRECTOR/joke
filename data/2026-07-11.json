@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-11T06:30:01.417382+00:00",
+  "timestamp": "2026-07-11T12:30:01.665988+00:00",
   "joke": {
     "type": "general",
-    "setup": "How was the snow globe feeling after the storm?",
-    "punchline": "A little shaken.",
-    "id": 145
+    "setup": "How many hipsters does it take to change a lightbulb?",
+    "punchline": "Oh, it's a really obscure number. You've probably never heard of it.",
+    "id": 139
   }
 }
