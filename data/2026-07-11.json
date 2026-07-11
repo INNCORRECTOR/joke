@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-11T12:30:01.665988+00:00",
+  "timestamp": "2026-07-11T18:30:01.157671+00:00",
   "joke": {
     "type": "general",
-    "setup": "How many hipsters does it take to change a lightbulb?",
-    "punchline": "Oh, it's a really obscure number. You've probably never heard of it.",
-    "id": 139
+    "setup": "What is this movie about?",
+    "punchline": "It is about 2 hours long.",
+    "id": 249
   }
 }
