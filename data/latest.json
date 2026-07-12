@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-12T06:30:01.630975+00:00",
+  "timestamp": "2026-07-12T12:30:01.249917+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why did the golfer wear two pairs of pants?",
-    "punchline": "In case he got a hole in one.",
-    "id": 433
+    "setup": "Where do rabbits go after they get married?",
+    "punchline": "On a bunny-moon.",
+    "id": 286
   }
 }
