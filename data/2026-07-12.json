@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-12T00:30:01.120061+00:00",
+  "timestamp": "2026-07-12T06:30:01.630975+00:00",
   "joke": {
     "type": "general",
-    "setup": "what do you call a dog that can do magic tricks?",
-    "punchline": "a labracadabrador",
-    "id": 200
+    "setup": "Why did the golfer wear two pairs of pants?",
+    "punchline": "In case he got a hole in one.",
+    "id": 433
   }
 }
