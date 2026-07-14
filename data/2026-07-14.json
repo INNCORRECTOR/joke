@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-14T12:30:01.257517+00:00",
+  "timestamp": "2026-07-14T18:30:01.264958+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What\u2019s the advantage of living in Switzerland?",
-    "punchline": "Well, the flag is a big plus.",
-    "id": 278
+    "type": "programming",
+    "setup": "['hip', 'hip']",
+    "punchline": "(hip hip array)",
+    "id": 26
   }
 }
