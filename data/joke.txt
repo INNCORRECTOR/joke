@@ -1,2 +1,2 @@
-What did the Dorito farmer say to the other Dorito farmer?
-Cool Ranch!
+3 SQL statements walk into a NoSQL bar. Soon, they walk out
+They couldn't find a table.
