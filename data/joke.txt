@@ -1,2 +1,2 @@
-Hey, wanna hear a joke?
-Parsing HTML with regex.
+Why do chicken coops only have two doors?
+Because if they had four, they would be chicken sedans
