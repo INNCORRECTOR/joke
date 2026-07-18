@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-18T12:30:01.450210+00:00",
+  "timestamp": "2026-07-18T18:30:01.995361+00:00",
   "joke": {
-    "type": "knock-knock",
-    "setup": "Knock knock. \n Who's there? \n Opportunity.",
-    "punchline": "That is impossible. Opportunity doesn\u2019t come knocking twice!",
-    "id": 33
+    "type": "general",
+    "setup": "What do you call fake spaghetti?",
+    "punchline": "An impasta.",
+    "id": 450
   }
 }
