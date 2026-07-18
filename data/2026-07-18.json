@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-18T06:30:01.887808+00:00",
+  "timestamp": "2026-07-18T12:30:01.450210+00:00",
   "joke": {
-    "type": "general",
-    "setup": "How many tickles does it take to tickle an octopus?",
-    "punchline": "Ten-tickles!",
-    "id": 143
+    "type": "knock-knock",
+    "setup": "Knock knock. \n Who's there? \n Opportunity.",
+    "punchline": "That is impossible. Opportunity doesn\u2019t come knocking twice!",
+    "id": 33
   }
 }
