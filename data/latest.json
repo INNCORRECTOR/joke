@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-19T12:30:01.378736+00:00",
+  "timestamp": "2026-07-19T18:30:01.961870+00:00",
   "joke": {
     "type": "general",
-    "setup": "What do prisoners use to call each other?",
-    "punchline": "Cell phones.",
-    "id": 189
+    "setup": "Why do birds fly south for the winter?",
+    "punchline": "Because it's too far to walk.",
+    "id": 344
   }
 }
