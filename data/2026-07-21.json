@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-21T00:30:01.888706+00:00",
+  "timestamp": "2026-07-21T06:30:01.800865+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why are football stadiums so cool?",
-    "punchline": "Because every seat has a fan in it.",
-    "id": 404
+    "setup": "What do you call a group of killer whales playing instruments?",
+    "punchline": "An Orca-stra.",
+    "id": 209
   }
 }
