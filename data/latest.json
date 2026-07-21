@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-21T12:30:01.800293+00:00",
+  "timestamp": "2026-07-21T18:30:01.630304+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Where does Fonzie like to go for lunch?",
-    "punchline": "Chick-Fil-Eyyyyyyyy.",
-    "id": 291
+    "type": "programming",
+    "setup": "Why don't programmers like nature?",
+    "punchline": "There's too many bugs.",
+    "id": 419
   }
 }
