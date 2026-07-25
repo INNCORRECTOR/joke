@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-25T12:30:01.223489+00:00",
+  "timestamp": "2026-07-25T18:30:01.129545+00:00",
   "joke": {
     "type": "general",
-    "setup": "What's the difference between a hippo and a zippo?",
-    "punchline": "One is really heavy, the other is a little lighter.",
-    "id": 271
+    "setup": "Why are pirates called pirates?",
+    "punchline": "Because they arrr!",
+    "id": 304
   }
 }
