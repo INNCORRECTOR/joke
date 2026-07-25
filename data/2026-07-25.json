@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-25T06:30:01.363859+00:00",
+  "timestamp": "2026-07-25T12:30:01.223489+00:00",
   "joke": {
     "type": "general",
-    "setup": "When is a door not a door?",
-    "punchline": "When it's ajar.",
-    "id": 282
+    "setup": "What's the difference between a hippo and a zippo?",
+    "punchline": "One is really heavy, the other is a little lighter.",
+    "id": 271
   }
 }
