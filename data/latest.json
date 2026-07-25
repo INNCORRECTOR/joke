@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-25T00:30:01.851558+00:00",
+  "timestamp": "2026-07-25T06:30:01.363859+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why are football stadiums so cool?",
-    "punchline": "Because every seat has a fan in it.",
-    "id": 404
+    "setup": "When is a door not a door?",
+    "punchline": "When it's ajar.",
+    "id": 282
   }
 }
