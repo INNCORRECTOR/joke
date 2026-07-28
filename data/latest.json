@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-28T00:30:01.849337+00:00",
+  "timestamp": "2026-07-28T06:30:01.259974+00:00",
   "joke": {
     "type": "general",
-    "setup": "Where did you learn to make ice cream?",
-    "punchline": "Sunday school.",
-    "id": 283
+    "setup": "What do you call a bear with no teeth?",
+    "punchline": "A gummy bear!",
+    "id": 191
   }
 }
