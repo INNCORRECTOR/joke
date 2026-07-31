@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-31T12:30:01.998833+00:00",
+  "timestamp": "2026-07-31T18:30:01.773355+00:00",
   "joke": {
     "type": "general",
-    "setup": "When a dad drives past a graveyard: Did you know that's a popular cemetery?",
-    "punchline": "Yep, people are just dying to get in there",
-    "id": 50
+    "setup": "Why did the opera singer go sailing?",
+    "punchline": "They wanted to hit the high Cs.",
+    "id": 332
   }
 }
