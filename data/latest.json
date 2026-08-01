@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-01T12:30:01.228272+00:00",
+  "timestamp": "2026-08-01T18:30:01.878063+00:00",
   "joke": {
     "type": "general",
-    "setup": "How many optometrists does it take to change a light bulb?",
-    "punchline": "1 or 2? 1... or 2?",
-    "id": 141
+    "setup": "Dad, can you put my shoes on?",
+    "punchline": "I don't think they'll fit me.",
+    "id": 83
   }
 }
