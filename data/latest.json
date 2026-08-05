@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-05T06:30:01.289527+00:00",
+  "timestamp": "2026-08-05T12:30:02.000875+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "A DHCP packet walks into a bar and asks for a beer.",
-    "punchline": "Bartender says, \"here, but I\u2019ll need that back in an hour!\"",
-    "id": 368
+    "type": "general",
+    "setup": "What do you call a troublesome Canadian high schooler?",
+    "punchline": "A poutine.",
+    "id": 216
   }
 }
