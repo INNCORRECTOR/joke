@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-06T06:30:01.498778+00:00",
+  "timestamp": "2026-08-06T12:30:01.734087+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Did you hear about the scientist who was lab partners with a pot of boiling water?",
-    "punchline": "He had a very esteemed colleague.",
-    "id": 94
+    "type": "programming",
+    "setup": "3 SQL statements walk into a NoSQL bar. Soon, they walk out",
+    "punchline": "They couldn't find a table.",
+    "id": 369
   }
 }
