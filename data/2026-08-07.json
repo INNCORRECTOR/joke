@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-07T00:30:01.206952+00:00",
+  "timestamp": "2026-08-07T06:30:01.846341+00:00",
   "joke": {
-    "type": "knock-knock",
-    "setup": "Knock knock. \n Who's there? \n Little old lady. \n Little old lady who?",
-    "punchline": "I didn't know you could yodel!",
-    "id": 13
+    "type": "general",
+    "setup": "Who is the coolest Doctor in the hospital?",
+    "punchline": "The hip Doctor!",
+    "id": 297
   }
 }
