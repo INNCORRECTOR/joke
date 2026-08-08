@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-08T06:30:01.124333+00:00",
+  "timestamp": "2026-08-08T12:30:01.834981+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "I was gonna tell you a joke about UDP...",
-    "punchline": "...but you might not get it.",
-    "id": 71
+    "type": "dad",
+    "setup": "Why do fathers take an extra pair of socks when they go golfing?",
+    "punchline": "In case they get a hole in one!",
+    "id": 378
   }
 }
