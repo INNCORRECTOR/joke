@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-08T12:30:01.834981+00:00",
+  "timestamp": "2026-08-08T18:30:01.522333+00:00",
   "joke": {
-    "type": "dad",
-    "setup": "Why do fathers take an extra pair of socks when they go golfing?",
-    "punchline": "In case they get a hole in one!",
-    "id": 378
+    "type": "general",
+    "setup": "Did you hear that the police have a warrant out on a midget psychic ripping people off?",
+    "punchline": "It reads \"Small medium at large.\"",
+    "id": 97
   }
 }
