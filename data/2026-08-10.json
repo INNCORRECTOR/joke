@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-10T06:30:01.917385+00:00",
+  "timestamp": "2026-08-10T12:30:01.668567+00:00",
   "joke": {
-    "type": "dad",
-    "setup": "Why don't eggs tell jokes?",
-    "punchline": "Because they would crack each other up.",
-    "id": 384
+    "type": "general",
+    "setup": "How does a French skeleton say hello?",
+    "punchline": "Bone-jour.",
+    "id": 133
   }
 }
