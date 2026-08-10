@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-10T12:30:01.668567+00:00",
+  "timestamp": "2026-08-10T18:30:01.431882+00:00",
   "joke": {
     "type": "general",
-    "setup": "How does a French skeleton say hello?",
-    "punchline": "Bone-jour.",
-    "id": 133
+    "setup": "What do you call a cow on a trampoline?",
+    "punchline": "A milk shake!",
+    "id": 195
   }
 }
