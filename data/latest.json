@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-10T00:30:01.558236+00:00",
+  "timestamp": "2026-08-10T06:30:01.917385+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Why did Dracula lie in the wrong coffin?",
-    "punchline": "He made a grave mistake.",
-    "id": 312
+    "type": "dad",
+    "setup": "Why don't eggs tell jokes?",
+    "punchline": "Because they would crack each other up.",
+    "id": 384
   }
 }
