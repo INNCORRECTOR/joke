@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-11T12:30:01.547874+00:00",
+  "timestamp": "2026-08-11T18:30:02.047846+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Why did the designer break up with their font?",
-    "punchline": "Because it wasn't their type.",
-    "id": 436
+    "type": "general",
+    "setup": "What creature is smarter than a talking parrot?",
+    "punchline": "A spelling bee.",
+    "id": 157
   }
 }
