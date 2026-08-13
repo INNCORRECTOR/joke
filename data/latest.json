@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-13T06:30:02.043893+00:00",
+  "timestamp": "2026-08-13T12:30:01.902516+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Why do C# and Java developers keep breaking their keyboards?",
-    "punchline": "Because they use a strongly typed language.",
-    "id": 73
+    "type": "dad",
+    "setup": "Why do fathers take an extra pair of socks when they go golfing?",
+    "punchline": "In case they get a hole in one!",
+    "id": 378
   }
 }
