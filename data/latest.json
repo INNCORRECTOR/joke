@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-13T12:30:01.902516+00:00",
+  "timestamp": "2026-08-13T18:30:01.809388+00:00",
   "joke": {
-    "type": "dad",
-    "setup": "Why do fathers take an extra pair of socks when they go golfing?",
-    "punchline": "In case they get a hole in one!",
-    "id": 378
+    "type": "general",
+    "setup": "Do I enjoy making courthouse puns?",
+    "punchline": "Guilty",
+    "id": 105
   }
 }
