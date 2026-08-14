@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-14T12:30:02.065193+00:00",
+  "timestamp": "2026-08-14T18:30:01.085841+00:00",
   "joke": {
     "type": "general",
-    "setup": "Want to hear my pizza joke?",
-    "punchline": "Never mind, it's too cheesy.",
-    "id": 152
+    "setup": "Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base?",
+    "punchline": "Because there\u2019s a Shortstop in between!",
+    "id": 358
   }
 }
