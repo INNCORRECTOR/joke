@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-15T06:30:01.314850+00:00",
+  "timestamp": "2026-08-15T12:30:01.232521+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "How many React developers does it take to change a lightbulb?",
-    "punchline": "None, they prefer dark mode.",
-    "id": 410
+    "type": "general",
+    "setup": "Why did the worker get fired from the orange juice factory?",
+    "punchline": "Lack of concentration.",
+    "id": 336
   }
 }
