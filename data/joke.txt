@@ -1,2 +1,2 @@
-What is red and smells like blue paint?
-Red paint!
+How many React developers does it take to change a lightbulb?
+None, they prefer dark mode.

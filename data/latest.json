@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-15T00:30:01.651953+00:00",
+  "timestamp": "2026-08-15T06:30:01.314850+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What is red and smells like blue paint?",
-    "punchline": "Red paint!",
-    "id": 243
+    "type": "programming",
+    "setup": "How many React developers does it take to change a lightbulb?",
+    "punchline": "None, they prefer dark mode.",
+    "id": 410
   }
 }
