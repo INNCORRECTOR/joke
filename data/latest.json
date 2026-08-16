@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-16T06:30:01.443128+00:00",
+  "timestamp": "2026-08-16T12:30:02.000481+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Did you hear about the chameleon who couldn't change color?",
-    "punchline": "They had a reptile dysfunction.",
-    "id": 85
+    "type": "programming",
+    "setup": "Why did the programmer always carry a pencil?",
+    "punchline": "They preferred to write in C#.",
+    "id": 448
   }
 }
