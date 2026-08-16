@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-16T00:30:01.625043+00:00",
+  "timestamp": "2026-08-16T06:30:01.443128+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Why did the programmer bring a ladder to work?",
-    "punchline": "They heard the code needed to be debugged from a higher level.",
-    "id": 441
+    "type": "general",
+    "setup": "Did you hear about the chameleon who couldn't change color?",
+    "punchline": "They had a reptile dysfunction.",
+    "id": 85
   }
 }
