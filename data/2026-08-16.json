@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-16T12:30:02.000481+00:00",
+  "timestamp": "2026-08-16T18:30:01.699432+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Why did the programmer always carry a pencil?",
-    "punchline": "They preferred to write in C#.",
-    "id": 448
+    "type": "general",
+    "setup": "Why did the fireman wear red, white, and blue suspenders?",
+    "punchline": "To hold his pants up.",
+    "id": 323
   }
 }
