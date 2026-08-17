@@ -1,4 +1,2 @@
-Knock knock. 
- Who's there? 
- Opportunity.
-That is impossible. Opportunity doesn’t come knocking twice!
+Why don't React developers like nature?
+They prefer the virtual DOM.

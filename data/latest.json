@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-17T12:30:01.989939+00:00",
+  "timestamp": "2026-08-17T18:30:01.234553+00:00",
   "joke": {
-    "type": "knock-knock",
-    "setup": "Knock knock. \n Who's there? \n Opportunity.",
-    "punchline": "That is impossible. Opportunity doesn\u2019t come knocking twice!",
-    "id": 33
+    "type": "programming",
+    "setup": "Why don't React developers like nature?",
+    "punchline": "They prefer the virtual DOM.",
+    "id": 411
   }
 }
