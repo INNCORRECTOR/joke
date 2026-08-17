@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-17T06:30:01.317927+00:00",
+  "timestamp": "2026-08-17T12:30:01.989939+00:00",
   "joke": {
-    "type": "general",
-    "setup": "A ham sandwhich walks into a bar and orders a beer. The bartender says...",
-    "punchline": "I'm sorry, we don't serve food here",
-    "id": 42
+    "type": "knock-knock",
+    "setup": "Knock knock. \n Who's there? \n Opportunity.",
+    "punchline": "That is impossible. Opportunity doesn\u2019t come knocking twice!",
+    "id": 33
   }
 }
