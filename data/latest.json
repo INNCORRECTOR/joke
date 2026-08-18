@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-18T12:30:01.835996+00:00",
+  "timestamp": "2026-08-18T18:30:01.706688+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "What's the object-oriented way to become wealthy?",
-    "punchline": "Inheritance",
-    "id": 16
+    "type": "general",
+    "setup": "What's black and white and read all over?",
+    "punchline": "The newspaper.",
+    "id": 264
   }
 }
