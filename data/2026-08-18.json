@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-18T06:30:01.493034+00:00",
+  "timestamp": "2026-08-18T12:30:01.835996+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What did the left eye say to the right eye?",
-    "punchline": "Between us, something smells!",
-    "id": 176
+    "type": "programming",
+    "setup": "What's the object-oriented way to become wealthy?",
+    "punchline": "Inheritance",
+    "id": 16
   }
 }
