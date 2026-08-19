@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-19T12:30:01.334093+00:00",
+  "timestamp": "2026-08-19T18:30:01.609169+00:00",
   "joke": {
     "type": "programming",
-    "setup": "Hey, wanna hear a joke?",
-    "punchline": "Parsing HTML with regex.",
-    "id": 395
+    "setup": "Why do programmers prefer dark chocolate?",
+    "punchline": "Because it's bitter like their code.",
+    "id": 416
   }
 }
