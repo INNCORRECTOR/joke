@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-19T06:30:01.290607+00:00",
+  "timestamp": "2026-08-19T12:30:01.334093+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Why can't your nose be 12 inches long?",
-    "punchline": "Because then it'd be a foot!",
-    "id": 308
+    "type": "programming",
+    "setup": "Hey, wanna hear a joke?",
+    "punchline": "Parsing HTML with regex.",
+    "id": 395
   }
 }
