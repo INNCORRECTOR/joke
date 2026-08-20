@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-20T06:30:01.999680+00:00",
+  "timestamp": "2026-08-20T12:30:01.726626+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What kind of dinosaur loves to sleep?",
-    "punchline": "A stega-snore-us.",
-    "id": 252
+    "type": "programming",
+    "setup": "What did the router say to the doctor?",
+    "punchline": "It hurts when IP.",
+    "id": 366
   }
 }
