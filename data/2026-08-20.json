@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-20T00:30:01.247806+00:00",
+  "timestamp": "2026-08-20T06:30:01.999680+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why was the developer always calm?",
-    "punchline": "Because they knew how to handle exceptions.",
-    "id": 442
+    "setup": "What kind of dinosaur loves to sleep?",
+    "punchline": "A stega-snore-us.",
+    "id": 252
   }
 }
