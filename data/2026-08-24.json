@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-24T06:30:01.484042+00:00",
+  "timestamp": "2026-08-24T12:30:01.911126+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What do you call sad coffee?",
-    "punchline": "Despresso.",
-    "id": 61
+    "type": "programming",
+    "setup": "To understand what recursion is...",
+    "punchline": "You must first understand what recursion is",
+    "id": 27
   }
 }
