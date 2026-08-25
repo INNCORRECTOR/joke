@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-25T12:30:02.027215+00:00",
+  "timestamp": "2026-08-25T18:30:01.366353+00:00",
   "joke": {
     "type": "general",
-    "setup": "Where do hamburgers go to dance?",
-    "punchline": "The meat-ball.",
-    "id": 285
+    "setup": "Never take advice from electrons.",
+    "punchline": "They are always negative.",
+    "id": 75
   }
 }
