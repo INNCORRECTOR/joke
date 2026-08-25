@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-25T06:30:01.953246+00:00",
+  "timestamp": "2026-08-25T12:30:02.027215+00:00",
   "joke": {
     "type": "general",
-    "setup": "Did you know that protons have mass?",
-    "punchline": "I didn't even know they were catholic.",
-    "id": 103
+    "setup": "Where do hamburgers go to dance?",
+    "punchline": "The meat-ball.",
+    "id": 285
   }
 }
