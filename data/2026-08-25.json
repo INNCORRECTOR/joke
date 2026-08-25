@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-25T00:30:02.026732+00:00",
+  "timestamp": "2026-08-25T06:30:01.953246+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "I was gonna tell you a joke about UDP...",
-    "punchline": "...but you might not get it.",
-    "id": 71
+    "type": "general",
+    "setup": "Did you know that protons have mass?",
+    "punchline": "I didn't even know they were catholic.",
+    "id": 103
   }
 }
