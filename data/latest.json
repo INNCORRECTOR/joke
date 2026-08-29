@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-29T00:30:01.719879+00:00",
+  "timestamp": "2026-08-29T06:30:01.967222+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "To understand what recursion is...",
-    "punchline": "You must first understand what recursion is",
-    "id": 27
+    "type": "general",
+    "setup": "Why are football stadiums so cool?",
+    "punchline": "Because every seat has a fan in it.",
+    "id": 404
   }
 }
