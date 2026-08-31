@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-31T06:30:01.913803+00:00",
+  "timestamp": "2026-08-31T12:30:01.729837+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Why did the private classes break up?",
-    "punchline": "Because they never saw each other.",
-    "id": 407
+    "type": "general",
+    "setup": "I saw a nice stereo on Craigslist for $1. Seller says the volume is stuck on \u2018high\u2019",
+    "punchline": "I couldn\u2019t turn it down.",
+    "id": 370
   }
 }
