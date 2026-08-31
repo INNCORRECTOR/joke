@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-31T00:30:01.246539+00:00",
+  "timestamp": "2026-08-31T06:30:01.913803+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What is a vampire's favorite fruit?",
-    "punchline": "A blood orange.",
-    "id": 241
+    "type": "programming",
+    "setup": "Why did the private classes break up?",
+    "punchline": "Because they never saw each other.",
+    "id": 407
   }
 }
