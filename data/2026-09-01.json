@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-01T00:30:01.257004+00:00",
+  "timestamp": "2026-09-01T06:30:01.710237+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Why did the programmer bring a ladder to work?",
-    "punchline": "They heard the code needed to be debugged from a higher level.",
-    "id": 441
+    "type": "general",
+    "setup": "What did celery say when he broke up with his girlfriend?",
+    "punchline": "She wasn't right for me, so I really don't carrot all.",
+    "id": 158
   }
 }
