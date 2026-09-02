@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-02T12:30:01.341640+00:00",
+  "timestamp": "2026-09-02T18:30:01.136571+00:00",
   "joke": {
     "type": "general",
-    "setup": "Did you hear about the cow who jumped over the barbed wire fence?",
-    "punchline": "It was udder destruction.",
-    "id": 87
+    "setup": "Why are pirates called pirates?",
+    "punchline": "Because they arrr!",
+    "id": 304
   }
 }
