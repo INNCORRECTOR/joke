@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-05T00:30:01.838682+00:00",
+  "timestamp": "2026-09-05T06:30:01.539615+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "A SQL query walks into a bar, walks up to two tables and asks...",
-    "punchline": "'Can I join you?'",
-    "id": 23
+    "type": "general",
+    "setup": "Did you hear about the kidnapping at school?",
+    "punchline": "It's ok, he woke up.",
+    "id": 90
   }
 }
