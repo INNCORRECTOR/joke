@@ -1,2 +1,2 @@
-Where do young cows eat lunch?
-In the calf-ateria.
+A SQL query walks into a bar, walks up to two tables and asks...
+'Can I join you?'
