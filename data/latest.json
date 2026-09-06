@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-06T00:30:01.452415+00:00",
+  "timestamp": "2026-09-06T06:30:01.184584+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "If you put a million monkeys at a million keyboards, one of them will eventually write a Java program",
-    "punchline": "the rest of them will write Perl",
-    "id": 25
+    "type": "general",
+    "setup": "Why did the cookie cry?",
+    "punchline": "Because his mother was a wafer so long",
+    "id": 320
   }
 }
