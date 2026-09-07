@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-07T06:30:02.015924+00:00",
+  "timestamp": "2026-09-07T12:30:01.928021+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Why do you never see elephants hiding in trees?",
-    "punchline": "Because they're so good at it.",
-    "id": 355
+    "type": "programming",
+    "setup": "To understand what recursion is...",
+    "punchline": "You must first understand what recursion is",
+    "id": 27
   }
 }

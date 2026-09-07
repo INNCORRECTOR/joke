@@ -1,2 +1,2 @@
-Why do you never see elephants hiding in trees?
-Because they're so good at it.
+To understand what recursion is...
+You must first understand what recursion is
