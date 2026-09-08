@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-08T12:30:01.734049+00:00",
+  "timestamp": "2026-09-08T18:30:01.141446+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Why do programmers prefer dark chocolate?",
-    "punchline": "Because it's bitter like their code.",
-    "id": 416
+    "type": "general",
+    "setup": "What do elves post on Social Media?",
+    "punchline": "Elf-ies.",
+    "id": 401
   }
 }
