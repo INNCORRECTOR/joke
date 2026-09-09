@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-09T00:30:01.670101+00:00",
+  "timestamp": "2026-09-09T06:30:01.107971+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Why did the fireman wear red, white, and blue suspenders?",
-    "punchline": "To hold his pants up.",
-    "id": 323
+    "type": "programming",
+    "setup": "I was gonna tell you a joke about UDP...",
+    "punchline": "...but you might not get it.",
+    "id": 71
   }
 }
