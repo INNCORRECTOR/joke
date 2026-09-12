@@ -1,2 +1,2 @@
-Why are graveyards so noisy?
-Because of all the coffin.
+What do you get when you cross a React developer with a mathematician?
+A function component.

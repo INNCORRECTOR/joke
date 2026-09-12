@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-12T12:30:02.036536+00:00",
+  "timestamp": "2026-09-12T18:30:01.223292+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Why are graveyards so noisy?",
-    "punchline": "Because of all the coffin.",
-    "id": 301
+    "type": "programming",
+    "setup": "What do you get when you cross a React developer with a mathematician?",
+    "punchline": "A function component.",
+    "id": 412
   }
 }
