@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-13T12:30:02.024647+00:00",
+  "timestamp": "2026-09-13T18:30:01.787037+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "I was gonna tell you a joke about UDP...",
-    "punchline": "...but you might not get it.",
-    "id": 71
+    "type": "general",
+    "setup": "Why are oranges the smartest fruit?",
+    "punchline": "Because they are made to concentrate. ",
+    "id": 303
   }
 }
