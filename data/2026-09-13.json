@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-13T00:30:02.054087+00:00",
+  "timestamp": "2026-09-13T06:30:01.440670+00:00",
   "joke": {
     "type": "general",
-    "setup": "What does a clock do when it's hungry?",
-    "punchline": "It goes back four seconds!",
-    "id": 234
+    "setup": "Why did the burglar hang his mugshot on the wall?",
+    "punchline": "To prove that he was framed!",
+    "id": 317
   }
 }
