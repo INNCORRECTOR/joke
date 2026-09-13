@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-13T06:30:01.440670+00:00",
+  "timestamp": "2026-09-13T12:30:02.024647+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Why did the burglar hang his mugshot on the wall?",
-    "punchline": "To prove that he was framed!",
-    "id": 317
+    "type": "programming",
+    "setup": "I was gonna tell you a joke about UDP...",
+    "punchline": "...but you might not get it.",
+    "id": 71
   }
 }
