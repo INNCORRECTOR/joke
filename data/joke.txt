@@ -1,2 +1,2 @@
-What do you get when you cross a React developer with a mathematician?
-A function component.
+What does a clock do when it's hungry?
+It goes back four seconds!
