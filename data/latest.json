@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-14T06:30:01.919632+00:00",
+  "timestamp": "2026-09-14T12:30:01.772495+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "What's the best part about TCP jokes?",
-    "punchline": "I get to keep telling them until you get them.",
-    "id": 363
+    "type": "general",
+    "setup": "How did Darth Vader know what Luke was getting for Christmas?",
+    "punchline": "He felt his presents.",
+    "id": 116
   }
 }
