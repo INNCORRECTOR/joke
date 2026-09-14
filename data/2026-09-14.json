@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-14T00:30:01.705038+00:00",
+  "timestamp": "2026-09-14T06:30:01.919632+00:00",
   "joke": {
-    "type": "general",
-    "setup": "How does a French skeleton say hello?",
-    "punchline": "Bone-jour.",
-    "id": 133
+    "type": "programming",
+    "setup": "What's the best part about TCP jokes?",
+    "punchline": "I get to keep telling them until you get them.",
+    "id": 363
   }
 }
