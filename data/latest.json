@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-15T12:30:01.925676+00:00",
+  "timestamp": "2026-09-15T18:30:01.911314+00:00",
   "joke": {
     "type": "general",
-    "setup": "If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?",
-    "punchline": "European",
-    "id": 38
+    "setup": "Why do trees seem suspicious on sunny days?",
+    "punchline": "Dunno, they're just a bit shady.",
+    "id": 352
   }
 }
