@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-16T06:30:01.393960+00:00",
+  "timestamp": "2026-09-16T12:30:01.836749+00:00",
   "joke": {
     "type": "general",
-    "setup": "What do you call a singing Laptop?",
-    "punchline": "A Dell",
-    "id": 7
+    "setup": "What kind of magic do cows believe in?",
+    "punchline": "MOODOO.",
+    "id": 254
   }
 }
