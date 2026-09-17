@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-17T00:30:01.210401+00:00",
+  "timestamp": "2026-09-17T06:30:01.748155+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What is a centipedes's favorite Beatle song?",
-    "punchline": "I want to hold your hand, hand, hand, hand...",
-    "id": 239
+    "type": "programming",
+    "setup": "Why did the programmer quit his job?",
+    "punchline": "Because he didn't get arrays.",
+    "id": 18
   }
 }
