@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-17T06:30:01.748155+00:00",
+  "timestamp": "2026-09-17T12:30:01.570175+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Why did the programmer quit his job?",
-    "punchline": "Because he didn't get arrays.",
-    "id": 18
+    "type": "general",
+    "setup": "How come a man driving a train got struck by lightning?",
+    "punchline": "He was a good conductor.",
+    "id": 114
   }
 }
