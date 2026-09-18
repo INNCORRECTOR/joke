@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-18T06:30:01.757505+00:00",
+  "timestamp": "2026-09-18T12:30:01.645509+00:00",
   "joke": {
     "type": "general",
-    "setup": "Two guys walk into a bar . . .",
-    "punchline": "The first guy says \"Ouch!\" and the second says \"Yeah, I didn't see it either.\"",
-    "id": 365
+    "setup": "Who is the coolest Doctor in the hospital?",
+    "punchline": "The hip Doctor!",
+    "id": 297
   }
 }
