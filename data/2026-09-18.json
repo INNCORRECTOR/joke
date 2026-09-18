@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-18T12:30:01.645509+00:00",
+  "timestamp": "2026-09-18T18:30:01.504222+00:00",
   "joke": {
     "type": "general",
-    "setup": "Who is the coolest Doctor in the hospital?",
-    "punchline": "The hip Doctor!",
-    "id": 297
+    "setup": "What's brown and sticky?",
+    "punchline": "A stick.",
+    "id": 266
   }
 }
