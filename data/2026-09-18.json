@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-18T00:30:01.387351+00:00",
+  "timestamp": "2026-09-18T06:30:01.757505+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why did the mushroom get invited to the party?",
-    "punchline": "Because he was a fungi.",
-    "id": 35
+    "setup": "Two guys walk into a bar . . .",
+    "punchline": "The first guy says \"Ouch!\" and the second says \"Yeah, I didn't see it either.\"",
+    "id": 365
   }
 }
