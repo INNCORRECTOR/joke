@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-20T06:30:01.223458+00:00",
+  "timestamp": "2026-09-20T12:30:01.901143+00:00",
   "joke": {
     "type": "general",
-    "setup": "What do you call a pile of cats?",
-    "punchline": "A Meowtain.",
-    "id": 214
+    "setup": "Can a kangaroo jump higher than the Empire State Building?",
+    "punchline": "Of course. The Empire State Building can't jump.",
+    "id": 80
   }
 }
