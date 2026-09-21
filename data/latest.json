@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-21T06:30:01.461009+00:00",
+  "timestamp": "2026-09-21T12:30:01.249227+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What do you get when you cross a chicken with a skunk?",
-    "punchline": "A fowl smell!",
-    "id": 230
+    "type": "programming",
+    "setup": "What\u2019s the object-oriented way to become wealthy?",
+    "punchline": "Inheritance.",
+    "id": 371
   }
 }
