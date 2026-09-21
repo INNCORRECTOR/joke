@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-21T12:30:01.249227+00:00",
+  "timestamp": "2026-09-21T18:30:01.379283+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "What\u2019s the object-oriented way to become wealthy?",
-    "punchline": "Inheritance.",
-    "id": 371
+    "type": "general",
+    "setup": "Why does Superman get invited to dinners?",
+    "punchline": "Because he is a Supperhero.",
+    "id": 360
   }
 }
