@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-22T06:30:02.030131+00:00",
+  "timestamp": "2026-09-22T12:30:01.687130+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "How many React developers does it take to change a lightbulb?",
-    "punchline": "None, they prefer dark mode.",
-    "id": 410
+    "type": "general",
+    "setup": "Why do bananas have to put on sunscreen before they go to the beach?",
+    "punchline": "Because they might peel!",
+    "id": 340
   }
 }
