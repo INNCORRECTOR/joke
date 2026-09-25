@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-25T00:30:01.703142+00:00",
+  "timestamp": "2026-09-25T06:30:01.266028+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Why did the developer break up with their keyboard?",
-    "punchline": "It just wasn't their type anymore.",
-    "id": 447
+    "type": "general",
+    "setup": "Where do bees go to the bathroom?",
+    "punchline": "The BP station.",
+    "id": 284
   }
 }
