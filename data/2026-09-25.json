@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-25T12:30:01.428789+00:00",
+  "timestamp": "2026-09-25T18:30:01.238456+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Why does Waldo only wear stripes?",
-    "punchline": "Because he doesn't want to be spotted.",
-    "id": 388
+    "type": "programming",
+    "setup": "['hip', 'hip']",
+    "punchline": "(hip hip array)",
+    "id": 26
   }
 }
