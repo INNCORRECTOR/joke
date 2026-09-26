@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-26T00:30:01.964679+00:00",
+  "timestamp": "2026-09-26T06:30:01.507141+00:00",
   "joke": {
     "type": "general",
-    "setup": "What did the Dorito farmer say to the other Dorito farmer?",
-    "punchline": "Cool Ranch!",
-    "id": 171
+    "setup": "What creature is smarter than a talking parrot?",
+    "punchline": "A spelling bee.",
+    "id": 157
   }
 }
