@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-28T06:30:01.373689+00:00",
+  "timestamp": "2026-09-28T12:30:01.901736+00:00",
   "joke": {
-    "type": "dad",
-    "setup": "Why don't eggs tell jokes?",
-    "punchline": "Because they would crack each other up.",
-    "id": 384
+    "type": "general",
+    "setup": "What did the shy pebble wish for?",
+    "punchline": "That she was a little boulder.",
+    "id": 184
   }
 }
