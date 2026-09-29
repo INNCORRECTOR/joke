@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-29T00:30:01.126752+00:00",
+  "timestamp": "2026-09-29T06:30:01.538650+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Did you hear about the runner who was criticized?",
-    "punchline": "He just took it in stride",
-    "id": 93
+    "type": "programming",
+    "setup": "Why was the designer always cold?",
+    "punchline": "Because they always used too much ice-olation.",
+    "id": 445
   }
 }
