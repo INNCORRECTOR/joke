@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-29T06:30:01.538650+00:00",
+  "timestamp": "2026-09-29T12:30:02.006072+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Why was the designer always cold?",
-    "punchline": "Because they always used too much ice-olation.",
-    "id": 445
+    "type": "general",
+    "setup": "What do prisoners use to call each other?",
+    "punchline": "Cell phones.",
+    "id": 189
   }
 }
