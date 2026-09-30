@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-30T06:30:01.587866+00:00",
+  "timestamp": "2026-09-30T12:30:01.534084+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why do you never see elephants hiding in trees?",
-    "punchline": "Because they're so good at it.",
-    "id": 355
+    "setup": "Why do crabs never give to charity?",
+    "punchline": "Because they\u2019re shellfish.",
+    "id": 346
   }
 }
