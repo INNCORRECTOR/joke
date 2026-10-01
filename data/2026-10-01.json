@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-01T00:30:01.601468+00:00",
+  "timestamp": "2026-10-01T06:30:01.087828+00:00",
   "joke": {
     "type": "general",
-    "setup": "If you see a robbery at an Apple Store...",
-    "punchline": "Does that make you an iWitness?",
-    "id": 41
+    "setup": "How do locomotives know where they're going?",
+    "punchline": "Lots of training",
+    "id": 119
   }
 }
