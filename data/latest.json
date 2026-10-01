@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-01T06:30:01.087828+00:00",
+  "timestamp": "2026-10-01T12:30:01.909680+00:00",
   "joke": {
     "type": "general",
-    "setup": "How do locomotives know where they're going?",
-    "punchline": "Lots of training",
-    "id": 119
+    "setup": "What do you call a suspicious looking laptop?",
+    "punchline": "Asus",
+    "id": 379
   }
 }
