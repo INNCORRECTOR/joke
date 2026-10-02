@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-02T00:30:01.270425+00:00",
+  "timestamp": "2026-10-02T06:30:01.967237+00:00",
   "joke": {
     "type": "general",
-    "setup": "The Sergeant-Major growled at the young soldier: I didn\u2019t see you at camouflage training this morning.",
-    "punchline": "Thank you very much, sir.",
-    "id": 387
+    "setup": "I couldn't get a reservation at the library...",
+    "punchline": "They were fully booked.",
+    "id": 70
   }
 }
