@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-03T06:30:01.448940+00:00",
+  "timestamp": "2026-10-03T12:30:01.109305+00:00",
   "joke": {
-    "type": "dad",
-    "setup": "Why do fathers take an extra pair of socks when they go golfing?",
-    "punchline": "In case they get a hole in one!",
-    "id": 378
+    "type": "general",
+    "setup": "What do you call corn that joins the army?",
+    "punchline": "Kernel.",
+    "id": 223
   }
 }
