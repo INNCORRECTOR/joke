@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-03T00:30:01.933082+00:00",
+  "timestamp": "2026-10-03T06:30:01.448940+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Did you hear about the Viking who was reincarnated?",
-    "punchline": "He was Bjorn again",
-    "id": 392
+    "type": "dad",
+    "setup": "Why do fathers take an extra pair of socks when they go golfing?",
+    "punchline": "In case they get a hole in one!",
+    "id": 378
   }
 }
