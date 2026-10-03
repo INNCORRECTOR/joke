@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-03T12:30:01.109305+00:00",
+  "timestamp": "2026-10-03T18:30:01.717585+00:00",
   "joke": {
     "type": "general",
-    "setup": "What do you call corn that joins the army?",
-    "punchline": "Kernel.",
-    "id": 223
+    "setup": "Why did the tomato blush?",
+    "punchline": "Because it saw the salad dressing.",
+    "id": 334
   }
 }
