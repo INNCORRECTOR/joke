@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-05T00:30:01.173142+00:00",
+  "timestamp": "2026-10-05T06:30:01.716161+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Why don't programmers like nature?",
-    "punchline": "Too many bugs.",
-    "id": 440
+    "type": "general",
+    "setup": "What did the mountain climber name his son?",
+    "punchline": "Cliff.",
+    "id": 177
   }
 }
