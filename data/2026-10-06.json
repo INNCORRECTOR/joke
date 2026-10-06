@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-06T12:30:01.224433+00:00",
+  "timestamp": "2026-10-06T18:30:01.237687+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why does a Moon-rock taste better than an Earth-rock?",
-    "punchline": "Because it's a little meteor.",
-    "id": 357
+    "setup": "What's brown and sticky?",
+    "punchline": "A stick.",
+    "id": 266
   }
 }
