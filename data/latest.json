@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-07T06:30:01.824976+00:00",
+  "timestamp": "2026-10-07T12:30:01.842707+00:00",
   "joke": {
     "type": "general",
-    "setup": "What kind of magic do cows believe in?",
-    "punchline": "MOODOO.",
-    "id": 254
+    "setup": "Why did the rooster cross the road?",
+    "punchline": "He heard that the chickens at KFC were pretty hot.",
+    "id": 391
   }
 }
