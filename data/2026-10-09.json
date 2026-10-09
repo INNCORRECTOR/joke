@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-09T12:30:01.506028+00:00",
+  "timestamp": "2026-10-09T18:30:01.969657+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Why did the butcher work extra hours at the shop?",
-    "punchline": "To make ends meat.",
-    "id": 62
+    "type": "programming",
+    "setup": "Why did the developer quit his job?",
+    "punchline": "Because he didn't get arrays.",
+    "id": 408
   }
 }
