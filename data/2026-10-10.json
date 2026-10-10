@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-10T00:30:01.812469+00:00",
+  "timestamp": "2026-10-10T06:30:01.645497+00:00",
   "joke": {
-    "type": "general",
-    "setup": "Did you hear the story about the cheese that saved the world?",
-    "punchline": "It was legend dairy.",
-    "id": 65
+    "type": "programming",
+    "setup": "Why did the developer go to therapy?",
+    "punchline": "They had too many unresolved issues.",
+    "id": 444
   }
 }
