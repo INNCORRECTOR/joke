@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-10T12:30:01.882595+00:00",
+  "timestamp": "2026-10-10T18:30:01.419301+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why are fish easy to weigh?",
-    "punchline": "Because they have their own scales.",
-    "id": 298
+    "setup": "The Sergeant-Major growled at the young soldier: I didn\u2019t see you at camouflage training this morning.",
+    "punchline": "Thank you very much, sir.",
+    "id": 387
   }
 }
