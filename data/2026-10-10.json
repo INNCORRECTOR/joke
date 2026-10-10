@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-10T06:30:01.645497+00:00",
+  "timestamp": "2026-10-10T12:30:01.882595+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Why did the developer go to therapy?",
-    "punchline": "They had too many unresolved issues.",
-    "id": 444
+    "type": "general",
+    "setup": "Why are fish easy to weigh?",
+    "punchline": "Because they have their own scales.",
+    "id": 298
   }
 }
