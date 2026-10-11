@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-11T06:30:02.063034+00:00",
+  "timestamp": "2026-10-11T12:30:01.496720+00:00",
   "joke": {
-    "type": "general",
-    "setup": "What's the difference between a hippo and a zippo?",
-    "punchline": "One is really heavy, the other is a little lighter.",
-    "id": 271
+    "type": "programming",
+    "setup": "Why did the programmer's wife leave him?",
+    "punchline": "He didn't know how to commit.",
+    "id": 415
   }
 }
