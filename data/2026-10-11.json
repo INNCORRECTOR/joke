@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-11T12:30:01.496720+00:00",
+  "timestamp": "2026-10-11T18:30:01.353998+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Why did the programmer's wife leave him?",
-    "punchline": "He didn't know how to commit.",
-    "id": 415
+    "type": "general",
+    "setup": "Have you heard the rumor going around about butter?",
+    "punchline": "Never mind, I shouldn't spread it.",
+    "id": 111
   }
 }
