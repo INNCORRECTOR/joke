@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-10T18:30:01.419301+00:00",
+  "timestamp": "2026-10-11T00:30:01.517477+00:00",
   "joke": {
     "type": "general",
-    "setup": "The Sergeant-Major growled at the young soldier: I didn\u2019t see you at camouflage training this morning.",
-    "punchline": "Thank you very much, sir.",
-    "id": 387
+    "setup": "Why did the math book look sad?",
+    "punchline": "Because it had too many problems.",
+    "id": 422
   }
 }
