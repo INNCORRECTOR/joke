@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-12T06:30:02.034794+00:00",
+  "timestamp": "2026-10-12T12:30:01.476968+00:00",
   "joke": {
     "type": "general",
-    "setup": "What's brown and sticky?",
-    "punchline": "A stick.",
-    "id": 266
+    "setup": "Did you know crocodiles could grow up to 15 feet?",
+    "punchline": "But most just have 4.",
+    "id": 101
   }
 }
