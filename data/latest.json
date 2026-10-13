@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-13T12:30:01.281411+00:00",
+  "timestamp": "2026-10-13T18:30:01.698915+00:00",
   "joke": {
     "type": "general",
-    "setup": "How many apples grow on a tree?",
-    "punchline": "All of them!",
-    "id": 137
+    "setup": "How many lips does a flower have?",
+    "punchline": "Tulips",
+    "id": 8
   }
 }
