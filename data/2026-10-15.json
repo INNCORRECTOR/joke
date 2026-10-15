@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-15T12:30:01.603373+00:00",
+  "timestamp": "2026-10-15T18:30:01.324104+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why did the chicken get a penalty?",
-    "punchline": "For fowl play.",
-    "id": 318
+    "setup": "Did you hear about the cheese factory that exploded in France?",
+    "punchline": "There was nothing left but de Brie.",
+    "id": 86
   }
 }
