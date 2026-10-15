@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-15T06:30:01.896280+00:00",
+  "timestamp": "2026-10-15T12:30:01.603373+00:00",
   "joke": {
     "type": "general",
-    "setup": "Did you hear about the bread factory burning down?",
-    "punchline": "They say the business is toast.",
-    "id": 84
+    "setup": "Why did the chicken get a penalty?",
+    "punchline": "For fowl play.",
+    "id": 318
   }
 }
