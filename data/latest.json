@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-16T18:30:01.401382+00:00",
+  "timestamp": "2026-10-17T00:30:01.586183+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Where do programmers like to hangout?",
-    "punchline": "The Foo Bar.",
-    "id": 17
+    "type": "general",
+    "setup": "Did you know crocodiles could grow up to 15 feet?",
+    "punchline": "But most just have 4.",
+    "id": 101
   }
 }
