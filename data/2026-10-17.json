@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-17T06:30:01.649765+00:00",
+  "timestamp": "2026-10-17T12:30:02.055809+00:00",
   "joke": {
     "type": "general",
-    "setup": "What do you give to a lemon in need?",
-    "punchline": "Lemonaid.",
-    "id": 74
+    "setup": "Why does Waldo only wear stripes?",
+    "punchline": "Because he doesn't want to be spotted.",
+    "id": 361
   }
 }
