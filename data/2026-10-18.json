@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-18T12:30:01.257365+00:00",
+  "timestamp": "2026-10-18T18:30:01.487507+00:00",
   "joke": {
     "type": "general",
-    "setup": "What did the pirate say on his 80th birthday?",
-    "punchline": "Aye Matey!",
-    "id": 181
+    "setup": "What is the difference between ignorance and apathy?",
+    "punchline": "I don't know and I don't care.",
+    "id": 244
   }
 }
