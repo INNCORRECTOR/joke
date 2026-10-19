@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-18T18:30:01.487507+00:00",
+  "timestamp": "2026-10-19T00:30:01.490690+00:00",
   "joke": {
     "type": "general",
-    "setup": "What is the difference between ignorance and apathy?",
-    "punchline": "I don't know and I don't care.",
-    "id": 244
+    "setup": "Which side of the chicken has more feathers?",
+    "punchline": "The outside.",
+    "id": 295
   }
 }
