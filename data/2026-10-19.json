@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-19T12:30:01.236113+00:00",
+  "timestamp": "2026-10-19T18:30:01.772722+00:00",
   "joke": {
     "type": "general",
-    "setup": "Want to hear my pizza joke?",
-    "punchline": "Never mind, it's too cheesy.",
-    "id": 152
+    "setup": "Did you watch the new comic book movie?",
+    "punchline": "It was very graphic!",
+    "id": 66
   }
 }
