@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-20T06:30:01.747424+00:00",
+  "timestamp": "2026-10-20T12:30:01.077312+00:00",
   "joke": {
     "type": "general",
-    "setup": "What did one wall say to the other wall?",
-    "punchline": "I'll meet you at the corner!",
-    "id": 163
+    "setup": "Who is the coolest Doctor in the hospital?",
+    "punchline": "The hip Doctor!",
+    "id": 297
   }
 }
