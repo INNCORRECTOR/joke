@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-19T18:30:01.772722+00:00",
+  "timestamp": "2026-10-20T00:30:01.442669+00:00",
   "joke": {
     "type": "general",
-    "setup": "Did you watch the new comic book movie?",
-    "punchline": "It was very graphic!",
-    "id": 66
+    "setup": "What kind of magic do cows believe in?",
+    "punchline": "MOODOO.",
+    "id": 254
   }
 }
