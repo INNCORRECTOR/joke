@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-21T12:30:01.657994+00:00",
+  "timestamp": "2026-10-21T18:30:01.578535+00:00",
   "joke": {
     "type": "general",
-    "setup": "If you see a robbery at an Apple Store...",
-    "punchline": "Does that make you an iWitness?",
-    "id": 41
+    "setup": "What kind of shoes does a thief wear?",
+    "punchline": "Sneakers",
+    "id": 9
   }
 }
