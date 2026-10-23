@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-10-23T00:30:01.886374+00:00",
+  "joke": {
+    "type": "general",
+    "setup": "How do you fix a damaged jack-o-lantern?",
+    "punchline": "You use a pumpkin patch.",
+    "id": 123
+  }
+}
