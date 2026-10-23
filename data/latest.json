@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-23T12:30:02.057334+00:00",
+  "timestamp": "2026-10-23T18:30:02.074561+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "What did the Java code say to the C code?",
-    "punchline": "You've got no class.",
-    "id": 380
+    "type": "general",
+    "setup": "What musical instrument is found in the bathroom?",
+    "punchline": "A tuba toothpaste.",
+    "id": 259
   }
 }
