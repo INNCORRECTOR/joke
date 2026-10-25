@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-24T18:30:01.213288+00:00",
+  "timestamp": "2026-10-25T00:30:01.815476+00:00",
   "joke": {
-    "type": "knock-knock",
-    "setup": "Knock knock. \n Who's there? \n A broken pencil. \n A broken pencil who?",
-    "punchline": "Never mind. It's pointless.",
-    "id": 11
+    "type": "general",
+    "setup": "How do you make the number one disappear?",
+    "punchline": "Add the letter G and it\u2019s \u201cgone\u201d!",
+    "id": 385
   }
 }
