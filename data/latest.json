@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-26T06:30:01.572904+00:00",
+  "timestamp": "2026-10-26T12:30:01.214915+00:00",
   "joke": {
     "type": "general",
-    "setup": "The Sergeant-Major growled at the young soldier: I didn\u2019t see you at camouflage training this morning.",
-    "punchline": "Thank you very much, sir.",
-    "id": 387
+    "setup": "What did the Dorito farmer say to the other Dorito farmer?",
+    "punchline": "Cool Ranch!",
+    "id": 171
   }
 }
