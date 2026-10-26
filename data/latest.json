@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-26T00:30:01.233188+00:00",
+  "timestamp": "2026-10-26T06:30:01.572904+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Why did the developer quit his job?",
-    "punchline": "Because he didn't get arrays.",
-    "id": 408
+    "type": "general",
+    "setup": "The Sergeant-Major growled at the young soldier: I didn\u2019t see you at camouflage training this morning.",
+    "punchline": "Thank you very much, sir.",
+    "id": 387
   }
 }
