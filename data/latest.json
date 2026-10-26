@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-25T18:30:01.898014+00:00",
+  "timestamp": "2026-10-26T00:30:01.233188+00:00",
   "joke": {
-    "type": "general",
-    "setup": "How do locomotives know where they're going?",
-    "punchline": "Lots of training",
-    "id": 119
+    "type": "programming",
+    "setup": "Why did the developer quit his job?",
+    "punchline": "Because he didn't get arrays.",
+    "id": 408
   }
 }
