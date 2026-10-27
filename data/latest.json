@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-27T12:30:01.315709+00:00",
+  "timestamp": "2026-10-27T18:30:01.805018+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Why did the programmer's wife leave him?",
-    "punchline": "He didn't know how to commit.",
-    "id": 415
+    "type": "general",
+    "setup": "What do elves post on Social Media?",
+    "punchline": "Elf-ies.",
+    "id": 401
   }
 }
