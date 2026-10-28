@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-28T12:30:01.919467+00:00",
+  "timestamp": "2026-10-28T18:30:01.372393+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why don't skeletons fight each other?",
-    "punchline": "They don't have the guts.",
-    "id": 449
+    "setup": "What do you call an Argentinian with a rubber toe?",
+    "punchline": "Roberto",
+    "id": 218
   }
 }
