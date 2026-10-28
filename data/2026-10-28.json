@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-28T06:30:01.271996+00:00",
+  "timestamp": "2026-10-28T12:30:01.919467+00:00",
   "joke": {
     "type": "general",
-    "setup": "How many kids with ADD does it take to change a lightbulb?",
-    "punchline": "Let's go ride bikes!",
-    "id": 140
+    "setup": "Why don't skeletons fight each other?",
+    "punchline": "They don't have the guts.",
+    "id": 449
   }
 }
