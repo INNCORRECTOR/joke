@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-29T00:30:01.216737+00:00",
+  "timestamp": "2026-10-29T06:30:01.336361+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why are oranges the smartest fruit?",
-    "punchline": "Because they are made to concentrate. ",
-    "id": 303
+    "setup": "What do you call a pig that knows karate?",
+    "punchline": "A pork chop!",
+    "id": 212
   }
 }
