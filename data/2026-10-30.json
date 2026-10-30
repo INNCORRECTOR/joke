@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-30T00:30:02.036515+00:00",
+  "timestamp": "2026-10-30T06:30:01.284723+00:00",
   "joke": {
-    "type": "general",
-    "setup": "When does a joke become a dad joke?",
-    "punchline": "When it becomes apparent.",
-    "id": 281
+    "type": "programming",
+    "setup": "Why do programmers always get Christmas and Halloween mixed up?",
+    "punchline": "Because DEC 25 = OCT 31",
+    "id": 382
   }
 }
