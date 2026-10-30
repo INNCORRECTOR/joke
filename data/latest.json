@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-29T18:30:01.244187+00:00",
+  "timestamp": "2026-10-30T00:30:02.036515+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why do bees hum?",
-    "punchline": "Because they don't know the words.",
-    "id": 343
+    "setup": "When does a joke become a dad joke?",
+    "punchline": "When it becomes apparent.",
+    "id": 281
   }
 }
