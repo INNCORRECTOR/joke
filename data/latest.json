@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-31T18:30:01.761449+00:00",
+  "timestamp": "2026-11-01T00:30:01.663829+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "Why did the programmer go to art school?",
-    "punchline": "He wanted to learn how to code outside the box.",
-    "id": 414
+    "type": "general",
+    "setup": "Why are pirates called pirates?",
+    "punchline": "Because they arrr!",
+    "id": 304
   }
 }
