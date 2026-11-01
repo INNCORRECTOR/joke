@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-11-01T12:30:01.789170+00:00",
+  "timestamp": "2026-11-01T18:30:01.975146+00:00",
   "joke": {
     "type": "general",
-    "setup": "Why are skeletons so calm?",
-    "punchline": "Because nothing gets under their skin.",
-    "id": 305
+    "setup": "How many apples grow on a tree?",
+    "punchline": "All of them!",
+    "id": 137
   }
 }
