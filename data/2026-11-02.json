@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-11-02T00:30:01.175858+00:00",
+  "timestamp": "2026-11-02T06:30:01.081744+00:00",
   "joke": {
-    "type": "programming",
-    "setup": "What is the most used language in programming?",
-    "punchline": "Profanity.",
-    "id": 381
+    "type": "general",
+    "setup": "What do vegetarian zombies eat?",
+    "punchline": "Grrrrrainnnnnssss.",
+    "id": 190
   }
 }
