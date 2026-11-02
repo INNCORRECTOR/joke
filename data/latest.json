@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-11-01T18:30:01.975146+00:00",
+  "timestamp": "2026-11-02T00:30:01.175858+00:00",
   "joke": {
-    "type": "general",
-    "setup": "How many apples grow on a tree?",
-    "punchline": "All of them!",
-    "id": 137
+    "type": "programming",
+    "setup": "What is the most used language in programming?",
+    "punchline": "Profanity.",
+    "id": 381
   }
 }
