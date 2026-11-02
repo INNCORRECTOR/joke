@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-11-02T12:30:01.504982+00:00",
+  "timestamp": "2026-11-02T18:30:01.836583+00:00",
   "joke": {
     "type": "general",
-    "setup": "Did you hear about the Viking who was reincarnated?",
-    "punchline": "He was Bjorn again",
-    "id": 392
+    "setup": "What do ghosts call their true love?",
+    "punchline": "Their ghoul-friend",
+    "id": 102
   }
 }
