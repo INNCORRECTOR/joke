@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-11-03T18:30:01.284722+00:00",
+  "timestamp": "2026-11-04T00:30:01.578891+00:00",
   "joke": {
     "type": "general",
-    "setup": "What kind of award did the dentist receive?",
-    "punchline": "A little plaque.",
-    "id": 250
+    "setup": "Did you hear about the cheese factory that exploded in France?",
+    "punchline": "There was nothing left but de Brie.",
+    "id": 86
   }
 }
