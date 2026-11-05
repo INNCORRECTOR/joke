@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-11-05T12:30:01.543054+00:00",
+  "timestamp": "2026-11-05T18:30:01.121702+00:00",
   "joke": {
     "type": "general",
-    "setup": "What kind of pants do ghosts wear?",
-    "punchline": "Boo jeans.",
-    "id": 256
+    "setup": "Why don't skeletons fight each other?",
+    "punchline": "They don't have the guts.",
+    "id": 449
   }
 }
