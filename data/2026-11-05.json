@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-11-05T00:30:01.708754+00:00",
+  "timestamp": "2026-11-05T06:30:01.698528+00:00",
   "joke": {
-    "type": "general",
-    "setup": "How can you tell a vampire has a cold?",
-    "punchline": "They start coffin.",
-    "id": 113
+    "type": "knock-knock",
+    "setup": "Knock knock. \n Who's there? \n A broken pencil. \n A broken pencil who?",
+    "punchline": "Never mind. It's pointless.",
+    "id": 11
   }
 }
