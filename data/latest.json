@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-11-05T06:30:01.698528+00:00",
+  "timestamp": "2026-11-05T12:30:01.543054+00:00",
   "joke": {
-    "type": "knock-knock",
-    "setup": "Knock knock. \n Who's there? \n A broken pencil. \n A broken pencil who?",
-    "punchline": "Never mind. It's pointless.",
-    "id": 11
+    "type": "general",
+    "setup": "What kind of pants do ghosts wear?",
+    "punchline": "Boo jeans.",
+    "id": 256
   }
 }
