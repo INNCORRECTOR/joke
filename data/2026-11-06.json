@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-11-06T06:30:01.477057+00:00",
+  "timestamp": "2026-11-06T12:30:01.768215+00:00",
   "joke": {
     "type": "general",
-    "setup": "What do prisoners use to call each other?",
-    "punchline": "Cell phones.",
-    "id": 189
+    "setup": "Did you watch the new comic book movie?",
+    "punchline": "It was very graphic!",
+    "id": 66
   }
 }
